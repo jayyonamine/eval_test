@@ -1,0 +1,802 @@
+[
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Tennessee Titans",
+    "away_team": "Minnesota Vikings",
+    "home_score": 36,
+    "away_score": 30,
+    "points_total": 66,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Indianapolis Colts",
+    "home_score": 26,
+    "away_score": 13,
+    "points_total": 39,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Cleveland Browns",
+    "away_team": "San Francisco 49ers",
+    "home_score": 34,
+    "away_score": 37,
+    "points_total": 71,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Atlanta Falcons",
+    "home_score": 22,
+    "away_score": 35,
+    "points_total": 57,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Green Bay Packers",
+    "away_team": "Houston Texans",
+    "home_score": 18,
+    "away_score": 23,
+    "points_total": 41,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "New York Giants",
+    "away_team": "Pittsburgh Steelers",
+    "home_score": 25,
+    "away_score": 28,
+    "points_total": 53,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Seattle Seahawks",
+    "home_score": 19,
+    "away_score": 17,
+    "points_total": 36,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Carolina Panthers",
+    "away_team": "Dallas Cowboys",
+    "home_score": 16,
+    "away_score": 33,
+    "points_total": 49,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Baltimore Ravens",
+    "home_score": 17,
+    "away_score": 18,
+    "points_total": 35,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "New Orleans Saints",
+    "away_team": "Los Angeles Rams",
+    "home_score": 28,
+    "away_score": 34,
+    "points_total": 62,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Detroit Lions",
+    "home_score": 31,
+    "away_score": 29,
+    "points_total": 60,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Miami Dolphins",
+    "away_team": "New York Jets",
+    "home_score": 15,
+    "away_score": 30,
+    "points_total": 45,
+    "location": "Hard Rock Stadium, Miami Gardens, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Chicago Bears",
+    "away_team": "Denver Broncos",
+    "home_score": 30,
+    "away_score": 17,
+    "points_total": 47,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-04",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Baltimore Ravens",
+    "home_score": 18,
+    "away_score": 17,
+    "points_total": 35,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-04",
+    "home_team": "Cleveland Browns",
+    "away_team": "Tennessee Titans",
+    "home_score": 35,
+    "away_score": 29,
+    "points_total": 64,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-07",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 14,
+    "away_score": 11,
+    "points_total": 25,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Houston Texans",
+    "away_team": "San Francisco 49ers",
+    "home_score": 11,
+    "away_score": 14,
+    "points_total": 25,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "New Orleans Saints",
+    "away_team": "Cleveland Browns",
+    "home_score": 30,
+    "away_score": 28,
+    "points_total": 58,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Chicago Bears",
+    "away_team": "Washington Commanders",
+    "home_score": 17,
+    "away_score": 24,
+    "points_total": 41,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "New England Patriots",
+    "away_team": "Dallas Cowboys",
+    "home_score": 18,
+    "away_score": 20,
+    "points_total": 38,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Pittsburgh Steelers",
+    "home_score": 21,
+    "away_score": 30,
+    "points_total": 51,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Philadelphia Eagles",
+    "home_score": 25,
+    "away_score": 22,
+    "points_total": 47,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Los Angeles Rams",
+    "home_score": 31,
+    "away_score": 23,
+    "points_total": 54,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Carolina Panthers",
+    "away_team": "Baltimore Ravens",
+    "home_score": 30,
+    "away_score": 16,
+    "points_total": 46,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "New York Jets",
+    "away_team": "Denver Broncos",
+    "home_score": 17,
+    "away_score": 22,
+    "points_total": 39,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Seattle Seahawks",
+    "home_score": 17,
+    "away_score": 21,
+    "points_total": 38,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 24,
+    "away_score": 13,
+    "points_total": 37,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Buffalo Bills",
+    "away_team": "Miami Dolphins",
+    "home_score": 20,
+    "away_score": 34,
+    "points_total": 54,
+    "location": "Highmark Stadium, Orchard Park, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "New York Giants",
+    "away_team": "Atlanta Falcons",
+    "home_score": 20,
+    "away_score": 31,
+    "points_total": 51,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Green Bay Packers",
+    "home_score": 12,
+    "away_score": 29,
+    "points_total": 41,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-11",
+    "home_team": "Seattle Seahawks",
+    "away_team": "New York Giants",
+    "home_score": 15,
+    "away_score": 34,
+    "points_total": 49,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-11",
+    "home_team": "Carolina Panthers",
+    "away_team": "Miami Dolphins",
+    "home_score": 13,
+    "away_score": 21,
+    "points_total": 34,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-14",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Chicago Bears",
+    "home_score": 19,
+    "away_score": 27,
+    "points_total": 46,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "New Orleans Saints",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 24,
+    "away_score": 18,
+    "points_total": 42,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Carolina Panthers",
+    "home_score": 23,
+    "away_score": 18,
+    "points_total": 41,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Seattle Seahawks",
+    "home_score": 24,
+    "away_score": 30,
+    "points_total": 54,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Chicago Bears",
+    "away_team": "Pittsburgh Steelers",
+    "home_score": 22,
+    "away_score": 32,
+    "points_total": 54,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "New York Giants",
+    "away_team": "Indianapolis Colts",
+    "home_score": 28,
+    "away_score": 34,
+    "points_total": 62,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Houston Texans",
+    "away_team": "Los Angeles Rams",
+    "home_score": 13,
+    "away_score": 24,
+    "points_total": 37,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Tennessee Titans",
+    "away_team": "San Francisco 49ers",
+    "home_score": 31,
+    "away_score": 19,
+    "points_total": 50,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "New York Jets",
+    "away_team": "Denver Broncos",
+    "home_score": 20,
+    "away_score": 33,
+    "points_total": 53,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 20,
+    "away_score": 25,
+    "points_total": 45,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Baltimore Ravens",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 37,
+    "away_score": 10,
+    "points_total": 47,
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Detroit Lions",
+    "away_team": "Washington Commanders",
+    "home_score": 32,
+    "away_score": 35,
+    "points_total": 67,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Green Bay Packers",
+    "home_score": 34,
+    "away_score": 13,
+    "points_total": 47,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Miami Dolphins",
+    "home_score": 25,
+    "away_score": 16,
+    "points_total": 41,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Atlanta Falcons",
+    "home_score": 37,
+    "away_score": 34,
+    "points_total": 71,
+    "location": "EverBank Stadium, Jacksonville, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-18",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Detroit Lions",
+    "home_score": 16,
+    "away_score": 23,
+    "points_total": 39,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Detroit Lions",
+    "away_team": "Chicago Bears",
+    "home_score": 26,
+    "away_score": 11,
+    "points_total": 37,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Houston Texans",
+    "home_score": 14,
+    "away_score": 23,
+    "points_total": 37,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Green Bay Packers",
+    "away_team": "Tennessee Titans",
+    "home_score": 13,
+    "away_score": 34,
+    "points_total": 47,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Las Vegas Raiders",
+    "away_team": "Arizona Cardinals",
+    "home_score": 31,
+    "away_score": 32,
+    "points_total": 63,
+    "location": "Allegiant Stadium, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 15,
+    "away_score": 24,
+    "points_total": 39,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Detroit Lions",
+    "away_team": "Philadelphia Eagles",
+    "home_score": 17,
+    "away_score": 31,
+    "points_total": 48,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "New York Giants",
+    "home_score": 32,
+    "away_score": 30,
+    "points_total": 62,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Miami Dolphins",
+    "away_team": "Carolina Panthers",
+    "home_score": 28,
+    "away_score": 25,
+    "points_total": 53,
+    "location": "Hard Rock Stadium, Miami Gardens, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Denver Broncos",
+    "home_score": 19,
+    "away_score": 31,
+    "points_total": 50,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 19,
+    "away_score": 32,
+    "points_total": 51,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Chicago Bears",
+    "away_team": "San Francisco 49ers",
+    "home_score": 19,
+    "away_score": 30,
+    "points_total": 49,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 22,
+    "away_score": 20,
+    "points_total": 42,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "New England Patriots",
+    "away_team": "Washington Commanders",
+    "home_score": 12,
+    "away_score": 29,
+    "points_total": 41,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-24",
+    "home_team": "Baltimore Ravens",
+    "away_team": "Dallas Cowboys",
+    "home_score": 29,
+    "away_score": 21,
+    "points_total": 50,
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-25",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Miami Dolphins",
+    "home_score": 15,
+    "away_score": 29,
+    "points_total": 44,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-25",
+    "home_team": "Tennessee Titans",
+    "away_team": "Buffalo Bills",
+    "home_score": 26,
+    "away_score": 10,
+    "points_total": 36,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-28",
+    "home_team": "New Orleans Saints",
+    "away_team": "Green Bay Packers",
+    "home_score": 38,
+    "away_score": 29,
+    "points_total": 67,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 34,
+    "away_score": 14,
+    "points_total": 48,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Atlanta Falcons",
+    "home_score": 13,
+    "away_score": 21,
+    "points_total": 34,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Carolina Panthers",
+    "away_team": "Seattle Seahawks",
+    "home_score": 14,
+    "away_score": 27,
+    "points_total": 41,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Houston Texans",
+    "away_team": "Chicago Bears",
+    "home_score": 15,
+    "away_score": 21,
+    "points_total": 36,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Denver Broncos",
+    "home_score": 18,
+    "away_score": 35,
+    "points_total": 53,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Arizona Cardinals",
+    "home_score": 38,
+    "away_score": 24,
+    "points_total": 62,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "New Orleans Saints",
+    "away_team": "New York Jets",
+    "home_score": 30,
+    "away_score": 35,
+    "points_total": 65,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Buffalo Bills",
+    "away_team": "Pittsburgh Steelers",
+    "home_score": 12,
+    "away_score": 34,
+    "points_total": 46,
+    "location": "Highmark Stadium, Orchard Park, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Los Angeles Rams",
+    "away_team": "New England Patriots",
+    "home_score": 23,
+    "away_score": 27,
+    "points_total": 50,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Green Bay Packers",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 13,
+    "away_score": 17,
+    "points_total": 30,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "New York Giants",
+    "home_score": 24,
+    "away_score": 11,
+    "points_total": 35,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Baltimore Ravens",
+    "home_score": 15,
+    "away_score": 20,
+    "points_total": 35,
+    "location": "EverBank Stadium, Jacksonville, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Detroit Lions",
+    "home_score": 12,
+    "away_score": 24,
+    "points_total": 36,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Miami Dolphins",
+    "home_score": 12,
+    "away_score": 17,
+    "points_total": 29,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-02",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Arizona Cardinals",
+    "home_score": 32,
+    "away_score": 31,
+    "points_total": 63,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  }
+]

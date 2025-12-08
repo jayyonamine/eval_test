@@ -1,0 +1,122 @@
+[
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Boston Celtics",
+    "away_team": "Miami Heat",
+    "home_score": 108,
+    "away_score": 89,
+    "points_total": 197,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Orlando Magic",
+    "home_score": 102,
+    "away_score": 101,
+    "points_total": 203,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Charlotte Hornets",
+    "home_score": 107,
+    "away_score": 105,
+    "points_total": 212,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Indiana Pacers",
+    "away_team": "Washington Wizards",
+    "home_score": 115,
+    "away_score": 103,
+    "points_total": 218,
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Detroit Pistons",
+    "away_team": "Chicago Bulls",
+    "home_score": 122,
+    "away_score": 112,
+    "points_total": 234,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Atlanta Hawks",
+    "home_score": 110,
+    "away_score": 102,
+    "points_total": 212,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "LA Clippers",
+    "home_score": 93,
+    "away_score": 92,
+    "points_total": 185,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 132,
+    "away_score": 124,
+    "points_total": 256,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 118,
+    "away_score": 105,
+    "points_total": 223,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Denver Nuggets",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 126,
+    "away_score": 144,
+    "points_total": 270,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Phoenix Suns",
+    "away_team": "New York Knicks",
+    "home_score": 138,
+    "away_score": 122,
+    "points_total": 260,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-03",
+    "home_team": "Golden State Warriors",
+    "away_team": "Houston Rockets",
+    "home_score": 99,
+    "away_score": 101,
+    "points_total": 200,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  }
+]

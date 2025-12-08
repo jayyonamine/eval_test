@@ -1,0 +1,2172 @@
+[
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Minnesota Wild",
+    "away_team": "Tampa Bay Lightning",
+    "home_score": 6,
+    "away_score": 3,
+    "points_total": 9,
+    "location": "Xcel Energy Center, St. Paul, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "San Jose Sharks",
+    "away_team": "Winnipeg Jets",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Philadelphia Flyers",
+    "away_team": "Anaheim Ducks",
+    "home_score": 3,
+    "away_score": 5,
+    "points_total": 8,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Utah Hockey Club",
+    "away_team": "Edmonton Oilers",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Colorado Avalanche",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "PNC Arena, Raleigh, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Nashville Predators",
+    "home_score": 1,
+    "away_score": 5,
+    "points_total": 6,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Washington Capitals",
+    "away_team": "New York Islanders",
+    "home_score": 7,
+    "away_score": 5,
+    "points_total": 12,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Los Angeles Kings",
+    "away_team": "Chicago Blackhawks",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Vancouver Canucks",
+    "away_team": "Montreal Canadiens",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Rogers Arena, Vancouver, BC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Seattle Kraken",
+    "away_team": "Dallas Stars",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Ottawa Senators",
+    "away_team": "Calgary Flames",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "Canadian Tire Centre, Ottawa, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Florida Panthers",
+    "home_score": 4,
+    "away_score": 6,
+    "points_total": 10,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "St. Louis Blues",
+    "away_team": "New York Rangers",
+    "home_score": 8,
+    "away_score": 5,
+    "points_total": 13,
+    "location": "Enterprise Center, St. Louis, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Columbus Blue Jackets",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-03",
+    "home_team": "Pittsburgh Penguins",
+    "away_team": "New Jersey Devils",
+    "home_score": 2,
+    "away_score": 1,
+    "points_total": 3,
+    "location": "PPG Paints Arena, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-04",
+    "home_team": "Columbus Blue Jackets",
+    "away_team": "Pittsburgh Penguins",
+    "home_score": 2,
+    "away_score": 3,
+    "points_total": 5,
+    "location": "Nationwide Arena, Columbus, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-04",
+    "home_team": "Utah Hockey Club",
+    "away_team": "Toronto Maple Leafs",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-04",
+    "home_team": "New York Islanders",
+    "away_team": "San Jose Sharks",
+    "home_score": 7,
+    "away_score": 6,
+    "points_total": 13,
+    "location": "UBS Arena, Elmont, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-04",
+    "home_team": "Detroit Red Wings",
+    "away_team": "Tampa Bay Lightning",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-04",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Edmonton Oilers",
+    "home_score": 1,
+    "away_score": 6,
+    "points_total": 7,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-05",
+    "home_team": "New York Islanders",
+    "away_team": "Toronto Maple Leafs",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "UBS Arena, Elmont, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-05",
+    "home_team": "Washington Capitals",
+    "away_team": "Dallas Stars",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-05",
+    "home_team": "Calgary Flames",
+    "away_team": "Winnipeg Jets",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Scotiabank Saddledome, Calgary, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-05",
+    "home_team": "Ottawa Senators",
+    "away_team": "Los Angeles Kings",
+    "home_score": 6,
+    "away_score": 4,
+    "points_total": 10,
+    "location": "Canadian Tire Centre, Ottawa, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-05",
+    "home_team": "Detroit Red Wings",
+    "away_team": "Montreal Canadiens",
+    "home_score": 2,
+    "away_score": 3,
+    "points_total": 5,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-05",
+    "home_team": "Minnesota Wild",
+    "away_team": "Florida Panthers",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Xcel Energy Center, St. Paul, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-07",
+    "home_team": "Pittsburgh Penguins",
+    "away_team": "Anaheim Ducks",
+    "home_score": 6,
+    "away_score": 3,
+    "points_total": 9,
+    "location": "PPG Paints Arena, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-07",
+    "home_team": "Chicago Blackhawks",
+    "away_team": "Philadelphia Flyers",
+    "home_score": 4,
+    "away_score": 6,
+    "points_total": 10,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-07",
+    "home_team": "St. Louis Blues",
+    "away_team": "Buffalo Sabres",
+    "home_score": 6,
+    "away_score": 2,
+    "points_total": 8,
+    "location": "Enterprise Center, St. Louis, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-07",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Minnesota Wild",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Amalie Arena, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-07",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Colorado Avalanche",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Toronto Maple Leafs",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "Florida Panthers",
+    "away_team": "New Jersey Devils",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "Amerant Bank Arena, Sunrise, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Dallas Stars",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "Montreal Canadiens",
+    "away_team": "Tampa Bay Lightning",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "Bell Centre, Montreal, QC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Winnipeg Jets",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Rogers Place, Edmonton, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "Seattle Kraken",
+    "away_team": "Philadelphia Flyers",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "St. Louis Blues",
+    "away_team": "Carolina Hurricanes",
+    "home_score": 2,
+    "away_score": 4,
+    "points_total": 6,
+    "location": "Enterprise Center, St. Louis, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "Nashville Predators",
+    "away_team": "Ottawa Senators",
+    "home_score": 2,
+    "away_score": 5,
+    "points_total": 7,
+    "location": "Bridgestone Arena, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "Vancouver Canucks",
+    "away_team": "Boston Bruins",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Rogers Arena, Vancouver, BC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-09",
+    "home_team": "Utah Hockey Club",
+    "away_team": "Buffalo Sabres",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Vancouver Canucks",
+    "home_score": 2,
+    "away_score": 3,
+    "points_total": 5,
+    "location": "Canada Life Centre, Winnipeg, MB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Boston Bruins",
+    "away_team": "Minnesota Wild",
+    "home_score": 7,
+    "away_score": 2,
+    "points_total": 9,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Nashville Predators",
+    "away_team": "New York Rangers",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Bridgestone Arena, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Utah Hockey Club",
+    "away_team": "Detroit Red Wings",
+    "home_score": 6,
+    "away_score": 4,
+    "points_total": 10,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Montreal Canadiens",
+    "home_score": 7,
+    "away_score": 3,
+    "points_total": 10,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Florida Panthers",
+    "away_team": "Philadelphia Flyers",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Amerant Bank Arena, Sunrise, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "San Jose Sharks",
+    "away_team": "New Jersey Devils",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Anaheim Ducks",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "Amalie Arena, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Seattle Kraken",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "PNC Arena, Raleigh, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Dallas Stars",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Rogers Place, Edmonton, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Calgary Flames",
+    "away_team": "Los Angeles Kings",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Scotiabank Saddledome, Calgary, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Washington Capitals",
+    "away_team": "St. Louis Blues",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-10",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Buffalo Sabres",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "Seattle Kraken",
+    "away_team": "New York Islanders",
+    "home_score": 3,
+    "away_score": 5,
+    "points_total": 8,
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "Columbus Blue Jackets",
+    "away_team": "Washington Capitals",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Nationwide Arena, Columbus, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "St. Louis Blues",
+    "away_team": "Dallas Stars",
+    "home_score": 2,
+    "away_score": 4,
+    "points_total": 6,
+    "location": "Enterprise Center, St. Louis, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "Pittsburgh Penguins",
+    "away_team": "Colorado Avalanche",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "PPG Paints Arena, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "Nashville Predators",
+    "away_team": "Buffalo Sabres",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Bridgestone Arena, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "Los Angeles Kings",
+    "away_team": "Vegas Golden Knights",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "Ottawa Senators",
+    "away_team": "New York Rangers",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Canadian Tire Centre, Ottawa, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "San Jose Sharks",
+    "away_team": "Vancouver Canucks",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "Anaheim Ducks",
+    "away_team": "Minnesota Wild",
+    "home_score": 2,
+    "away_score": 0,
+    "points_total": 2,
+    "location": "Honda Center, Anaheim, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-12",
+    "home_team": "Detroit Red Wings",
+    "away_team": "Utah Hockey Club",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Florida Panthers",
+    "away_team": "Ottawa Senators",
+    "home_score": 2,
+    "away_score": 3,
+    "points_total": 5,
+    "location": "Amerant Bank Arena, Sunrise, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Calgary Flames",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Washington Capitals",
+    "away_team": "Nashville Predators",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "New York Rangers",
+    "home_score": 6,
+    "away_score": 5,
+    "points_total": 11,
+    "location": "PNC Arena, Raleigh, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Philadelphia Flyers",
+    "home_score": 4,
+    "away_score": 6,
+    "points_total": 10,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Montreal Canadiens",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Amalie Arena, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Edmonton Oilers",
+    "away_team": "New York Islanders",
+    "home_score": 5,
+    "away_score": 1,
+    "points_total": 6,
+    "location": "Rogers Place, Edmonton, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Boston Bruins",
+    "away_team": "Pittsburgh Penguins",
+    "home_score": 6,
+    "away_score": 4,
+    "points_total": 10,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Dallas Stars",
+    "away_team": "Anaheim Ducks",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "St. Louis Blues",
+    "away_team": "Seattle Kraken",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Enterprise Center, St. Louis, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Vancouver Canucks",
+    "home_score": 2,
+    "away_score": 0,
+    "points_total": 2,
+    "location": "Canada Life Centre, Winnipeg, MB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-13",
+    "home_team": "Columbus Blue Jackets",
+    "away_team": "Toronto Maple Leafs",
+    "home_score": 6,
+    "away_score": 2,
+    "points_total": 8,
+    "location": "Nationwide Arena, Columbus, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-14",
+    "home_team": "Boston Bruins",
+    "away_team": "Carolina Hurricanes",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-14",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Florida Panthers",
+    "home_score": 0,
+    "away_score": 3,
+    "points_total": 3,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-14",
+    "home_team": "New Jersey Devils",
+    "away_team": "Ottawa Senators",
+    "home_score": 1,
+    "away_score": 3,
+    "points_total": 4,
+    "location": "Prudential Center, Newark, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-14",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Calgary Flames",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-14",
+    "home_team": "Chicago Blackhawks",
+    "away_team": "Vancouver Canucks",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-15",
+    "home_team": "Seattle Kraken",
+    "away_team": "Tampa Bay Lightning",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-15",
+    "home_team": "San Jose Sharks",
+    "away_team": "Utah Hockey Club",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-15",
+    "home_team": "Vancouver Canucks",
+    "away_team": "Toronto Maple Leafs",
+    "home_score": 6,
+    "away_score": 4,
+    "points_total": 10,
+    "location": "Rogers Arena, Vancouver, BC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-15",
+    "home_team": "Washington Capitals",
+    "away_team": "Philadelphia Flyers",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-15",
+    "home_team": "Minnesota Wild",
+    "away_team": "Dallas Stars",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Xcel Energy Center, St. Paul, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-15",
+    "home_team": "Detroit Red Wings",
+    "away_team": "Nashville Predators",
+    "home_score": 2,
+    "away_score": 5,
+    "points_total": 7,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-15",
+    "home_team": "Anaheim Ducks",
+    "away_team": "Chicago Blackhawks",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Honda Center, Anaheim, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "San Jose Sharks",
+    "away_team": "Vancouver Canucks",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Washington Capitals",
+    "home_score": 3,
+    "away_score": 6,
+    "points_total": 9,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "New Jersey Devils",
+    "away_team": "Dallas Stars",
+    "home_score": 3,
+    "away_score": 6,
+    "points_total": 9,
+    "location": "Prudential Center, Newark, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Los Angeles Kings",
+    "away_team": "Minnesota Wild",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Chicago Blackhawks",
+    "away_team": "Toronto Maple Leafs",
+    "home_score": 6,
+    "away_score": 3,
+    "points_total": 9,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Ottawa Senators",
+    "away_team": "Utah Hockey Club",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Canadian Tire Centre, Ottawa, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Anaheim Ducks",
+    "away_team": "Philadelphia Flyers",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Honda Center, Anaheim, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Boston Bruins",
+    "away_team": "Winnipeg Jets",
+    "home_score": 1,
+    "away_score": 4,
+    "points_total": 5,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Pittsburgh Penguins",
+    "away_team": "New York Islanders",
+    "home_score": 3,
+    "away_score": 5,
+    "points_total": 8,
+    "location": "PPG Paints Arena, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "St. Louis Blues",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "PNC Arena, Raleigh, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Montreal Canadiens",
+    "home_score": 2,
+    "away_score": 6,
+    "points_total": 8,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Detroit Red Wings",
+    "away_team": "Calgary Flames",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Florida Panthers",
+    "away_team": "Buffalo Sabres",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Amerant Bank Arena, Sunrise, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Edmonton Oilers",
+    "away_team": "New York Rangers",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Rogers Place, Edmonton, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-16",
+    "home_team": "Nashville Predators",
+    "away_team": "Columbus Blue Jackets",
+    "home_score": 3,
+    "away_score": 1,
+    "points_total": 4,
+    "location": "Bridgestone Arena, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Philadelphia Flyers",
+    "away_team": "Los Angeles Kings",
+    "home_score": 2,
+    "away_score": 3,
+    "points_total": 5,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Edmonton Oilers",
+    "home_score": 3,
+    "away_score": 7,
+    "points_total": 10,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Florida Panthers",
+    "away_team": "Dallas Stars",
+    "home_score": 2,
+    "away_score": 4,
+    "points_total": 6,
+    "location": "Amerant Bank Arena, Sunrise, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Montreal Canadiens",
+    "away_team": "Nashville Predators",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Bell Centre, Montreal, QC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Detroit Red Wings",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Amalie Arena, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Ottawa Senators",
+    "away_team": "Vancouver Canucks",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "Canadian Tire Centre, Ottawa, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Anaheim Ducks",
+    "away_team": "New Jersey Devils",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Honda Center, Anaheim, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Boston Bruins",
+    "away_team": "Minnesota Wild",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Vegas Golden Knights",
+    "home_score": 2,
+    "away_score": 3,
+    "points_total": 5,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Pittsburgh Penguins",
+    "away_team": "Columbus Blue Jackets",
+    "home_score": 5,
+    "away_score": 6,
+    "points_total": 11,
+    "location": "PPG Paints Arena, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "New York Rangers",
+    "away_team": "Carolina Hurricanes",
+    "home_score": 1,
+    "away_score": 2,
+    "points_total": 3,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Washington Capitals",
+    "away_team": "Chicago Blackhawks",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "New York Islanders",
+    "away_team": "Seattle Kraken",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "UBS Arena, Elmont, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Utah Hockey Club",
+    "home_score": 1,
+    "away_score": 3,
+    "points_total": 4,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-17",
+    "home_team": "Calgary Flames",
+    "away_team": "Winnipeg Jets",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Scotiabank Saddledome, Calgary, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-18",
+    "home_team": "San Jose Sharks",
+    "away_team": "Nashville Predators",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-18",
+    "home_team": "Philadelphia Flyers",
+    "away_team": "New Jersey Devils",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-18",
+    "home_team": "Seattle Kraken",
+    "away_team": "New York Rangers",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-18",
+    "home_team": "Detroit Red Wings",
+    "away_team": "Calgary Flames",
+    "home_score": 3,
+    "away_score": 5,
+    "points_total": 8,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-18",
+    "home_team": "Ottawa Senators",
+    "away_team": "Vegas Golden Knights",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Canadian Tire Centre, Ottawa, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-19",
+    "home_team": "Montreal Canadiens",
+    "away_team": "Florida Panthers",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Bell Centre, Montreal, QC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-19",
+    "home_team": "Boston Bruins",
+    "away_team": "Vancouver Canucks",
+    "home_score": 5,
+    "away_score": 6,
+    "points_total": 11,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-19",
+    "home_team": "Washington Capitals",
+    "away_team": "Utah Hockey Club",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-19",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Minnesota Wild",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-19",
+    "home_team": "Columbus Blue Jackets",
+    "away_team": "Winnipeg Jets",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Nationwide Arena, Columbus, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-20",
+    "home_team": "Minnesota Wild",
+    "away_team": "New York Rangers",
+    "home_score": 2,
+    "away_score": 3,
+    "points_total": 5,
+    "location": "Xcel Energy Center, St. Paul, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-20",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Boston Bruins",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Canada Life Centre, Winnipeg, MB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-20",
+    "home_team": "Los Angeles Kings",
+    "away_team": "Pittsburgh Penguins",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-20",
+    "home_team": "New York Islanders",
+    "away_team": "Seattle Kraken",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "UBS Arena, Elmont, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-20",
+    "home_team": "San Jose Sharks",
+    "away_team": "Dallas Stars",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-20",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Washington Capitals",
+    "home_score": 6,
+    "away_score": 1,
+    "points_total": 7,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-20",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Anaheim Ducks",
+    "home_score": 3,
+    "away_score": 5,
+    "points_total": 8,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-20",
+    "home_team": "Columbus Blue Jackets",
+    "away_team": "New Jersey Devils",
+    "home_score": 5,
+    "away_score": 7,
+    "points_total": 12,
+    "location": "Nationwide Arena, Columbus, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-20",
+    "home_team": "Montreal Canadiens",
+    "away_team": "Ottawa Senators",
+    "home_score": 2,
+    "away_score": 6,
+    "points_total": 8,
+    "location": "Bell Centre, Montreal, QC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Nashville Predators",
+    "away_team": "Detroit Red Wings",
+    "home_score": 3,
+    "away_score": 0,
+    "points_total": 3,
+    "location": "Bridgestone Arena, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "New Jersey Devils",
+    "away_team": "Utah Hockey Club",
+    "home_score": 1,
+    "away_score": 3,
+    "points_total": 4,
+    "location": "Prudential Center, Newark, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Seattle Kraken",
+    "home_score": 6,
+    "away_score": 3,
+    "points_total": 9,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Philadelphia Flyers",
+    "away_team": "San Jose Sharks",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Columbus Blue Jackets",
+    "away_team": "New York Rangers",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Nationwide Arena, Columbus, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Minnesota Wild",
+    "home_score": 2,
+    "away_score": 1,
+    "points_total": 3,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Florida Panthers",
+    "away_team": "Winnipeg Jets",
+    "home_score": 1,
+    "away_score": 6,
+    "points_total": 7,
+    "location": "Amerant Bank Arena, Sunrise, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Washington Capitals",
+    "away_team": "Vancouver Canucks",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "New York Islanders",
+    "away_team": "Los Angeles Kings",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "UBS Arena, Elmont, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Toronto Maple Leafs",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Amalie Arena, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-21",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Montreal Canadiens",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-22",
+    "home_team": "Vancouver Canucks",
+    "away_team": "Calgary Flames",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Rogers Arena, Vancouver, BC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-22",
+    "home_team": "Florida Panthers",
+    "away_team": "Pittsburgh Penguins",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Amerant Bank Arena, Sunrise, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-22",
+    "home_team": "Boston Bruins",
+    "away_team": "Ottawa Senators",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-22",
+    "home_team": "Edmonton Oilers",
+    "away_team": "St. Louis Blues",
+    "home_score": 8,
+    "away_score": 4,
+    "points_total": 12,
+    "location": "Rogers Place, Edmonton, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-22",
+    "home_team": "Anaheim Ducks",
+    "away_team": "Vegas Golden Knights",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "Honda Center, Anaheim, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Washington Capitals",
+    "away_team": "St. Louis Blues",
+    "home_score": 2,
+    "away_score": 7,
+    "points_total": 9,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Ottawa Senators",
+    "away_team": "Detroit Red Wings",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Canadian Tire Centre, Ottawa, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Chicago Blackhawks",
+    "away_team": "New York Rangers",
+    "home_score": 5,
+    "away_score": 6,
+    "points_total": 11,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Boston Bruins",
+    "away_team": "Columbus Blue Jackets",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Los Angeles Kings",
+    "away_team": "Edmonton Oilers",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "San Jose Sharks",
+    "away_team": "Florida Panthers",
+    "home_score": 2,
+    "away_score": 3,
+    "points_total": 5,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Anaheim Ducks",
+    "away_team": "Pittsburgh Penguins",
+    "home_score": 2,
+    "away_score": 4,
+    "points_total": 6,
+    "location": "Honda Center, Anaheim, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Utah Hockey Club",
+    "home_score": 6,
+    "away_score": 3,
+    "points_total": 9,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Seattle Kraken",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Canada Life Centre, Winnipeg, MB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Vancouver Canucks",
+    "away_team": "Colorado Avalanche",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Rogers Arena, Vancouver, BC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Montreal Canadiens",
+    "away_team": "Vegas Golden Knights",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Bell Centre, Montreal, QC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-23",
+    "home_team": "Nashville Predators",
+    "away_team": "Toronto Maple Leafs",
+    "home_score": 2,
+    "away_score": 7,
+    "points_total": 9,
+    "location": "Bridgestone Arena, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-25",
+    "home_team": "Minnesota Wild",
+    "away_team": "Buffalo Sabres",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Xcel Energy Center, St. Paul, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-25",
+    "home_team": "Dallas Stars",
+    "away_team": "New York Islanders",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-25",
+    "home_team": "Los Angeles Kings",
+    "away_team": "Utah Hockey Club",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-25",
+    "home_team": "Columbus Blue Jackets",
+    "away_team": "Carolina Hurricanes",
+    "home_score": 4,
+    "away_score": 1,
+    "points_total": 5,
+    "location": "Nationwide Arena, Columbus, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-25",
+    "home_team": "Ottawa Senators",
+    "away_team": "Winnipeg Jets",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Canadian Tire Centre, Ottawa, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-25",
+    "home_team": "New Jersey Devils",
+    "away_team": "San Jose Sharks",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "Prudential Center, Newark, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-25",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Edmonton Oilers",
+    "home_score": 6,
+    "away_score": 5,
+    "points_total": 11,
+    "location": "Amalie Arena, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Dallas Stars",
+    "away_team": "Nashville Predators",
+    "home_score": 5,
+    "away_score": 4,
+    "points_total": 9,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Detroit Red Wings",
+    "away_team": "Vancouver Canucks",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Seattle Kraken",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Florida Panthers",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Utah Hockey Club",
+    "away_team": "St. Louis Blues",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Los Angeles Kings",
+    "away_team": "Columbus Blue Jackets",
+    "home_score": 6,
+    "away_score": 7,
+    "points_total": 13,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Montreal Canadiens",
+    "home_score": 6,
+    "away_score": 7,
+    "points_total": 13,
+    "location": "Rogers Place, Edmonton, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Chicago Blackhawks",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Canada Life Centre, Winnipeg, MB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Washington Capitals",
+    "away_team": "San Jose Sharks",
+    "home_score": 4,
+    "away_score": 6,
+    "points_total": 10,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-26",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Anaheim Ducks",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-27",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Utah Hockey Club",
+    "home_score": 0,
+    "away_score": 5,
+    "points_total": 5,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-27",
+    "home_team": "Seattle Kraken",
+    "away_team": "Vancouver Canucks",
+    "home_score": 5,
+    "away_score": 3,
+    "points_total": 8,
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-27",
+    "home_team": "San Jose Sharks",
+    "away_team": "Montreal Canadiens",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-27",
+    "home_team": "Philadelphia Flyers",
+    "away_team": "Minnesota Wild",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-27",
+    "home_team": "Washington Capitals",
+    "away_team": "Pittsburgh Penguins",
+    "home_score": 4,
+    "away_score": 3,
+    "points_total": 7,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-28",
+    "home_team": "Pittsburgh Penguins",
+    "away_team": "Seattle Kraken",
+    "home_score": 4,
+    "away_score": 1,
+    "points_total": 5,
+    "location": "PPG Paints Arena, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-28",
+    "home_team": "Anaheim Ducks",
+    "away_team": "Buffalo Sabres",
+    "home_score": 5,
+    "away_score": 1,
+    "points_total": 6,
+    "location": "Honda Center, Anaheim, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-28",
+    "home_team": "Chicago Blackhawks",
+    "away_team": "Edmonton Oilers",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-28",
+    "home_team": "Ottawa Senators",
+    "away_team": "Toronto Maple Leafs",
+    "home_score": 2,
+    "away_score": 3,
+    "points_total": 5,
+    "location": "Canadian Tire Centre, Ottawa, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-28",
+    "home_team": "New York Rangers",
+    "away_team": "Calgary Flames",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-28",
+    "home_team": "Nashville Predators",
+    "away_team": "Columbus Blue Jackets",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "Bridgestone Arena, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "New York Rangers",
+    "away_team": "New Jersey Devils",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "Washington Capitals",
+    "away_team": "Montreal Canadiens",
+    "home_score": 4,
+    "away_score": 0,
+    "points_total": 4,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "San Jose Sharks",
+    "away_team": "St. Louis Blues",
+    "home_score": 6,
+    "away_score": 5,
+    "points_total": 11,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Edmonton Oilers",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "Boston Bruins",
+    "away_team": "Vancouver Canucks",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Carolina Hurricanes",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "Nashville Predators",
+    "away_team": "Buffalo Sabres",
+    "home_score": 4,
+    "away_score": 2,
+    "points_total": 6,
+    "location": "Bridgestone Arena, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "Seattle Kraken",
+    "away_team": "Minnesota Wild",
+    "home_score": 3,
+    "away_score": 7,
+    "points_total": 10,
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "Anaheim Ducks",
+    "away_team": "Los Angeles Kings",
+    "home_score": 6,
+    "away_score": 4,
+    "points_total": 10,
+    "location": "Honda Center, Anaheim, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-11-29",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Philadelphia Flyers",
+    "home_score": 6,
+    "away_score": 7,
+    "points_total": 13,
+    "location": "Canada Life Centre, Winnipeg, MB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Winnipeg Jets",
+    "home_score": 2,
+    "away_score": 4,
+    "points_total": 6,
+    "location": "KeyBank Center, Buffalo, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Washington Capitals",
+    "home_score": 4,
+    "away_score": 1,
+    "points_total": 5,
+    "location": "T-Mobile Arena, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Florida Panthers",
+    "away_team": "Montreal Canadiens",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Amerant Bank Arena, Sunrise, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "New York Rangers",
+    "away_team": "Boston Bruins",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "St. Louis Blues",
+    "away_team": "Ottawa Senators",
+    "home_score": 3,
+    "away_score": 4,
+    "points_total": 7,
+    "location": "Enterprise Center, St. Louis, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "New York Islanders",
+    "away_team": "Vancouver Canucks",
+    "home_score": 2,
+    "away_score": 7,
+    "points_total": 9,
+    "location": "UBS Arena, Elmont, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Anaheim Ducks",
+    "away_team": "Colorado Avalanche",
+    "home_score": 6,
+    "away_score": 5,
+    "points_total": 11,
+    "location": "Honda Center, Anaheim, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "San Jose Sharks",
+    "away_team": "Utah Hockey Club",
+    "home_score": 7,
+    "away_score": 3,
+    "points_total": 10,
+    "location": "SAP Center, San Jose, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Columbus Blue Jackets",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "Rogers Place, Edmonton, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Detroit Red Wings",
+    "away_team": "Carolina Hurricanes",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Seattle Kraken",
+    "away_team": "Los Angeles Kings",
+    "home_score": 4,
+    "away_score": 5,
+    "points_total": 9,
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Philadelphia Flyers",
+    "away_team": "Minnesota Wild",
+    "home_score": 0,
+    "away_score": 5,
+    "points_total": 5,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "Calgary Flames",
+    "away_team": "Tampa Bay Lightning",
+    "home_score": 3,
+    "away_score": 2,
+    "points_total": 5,
+    "location": "Scotiabank Saddledome, Calgary, AB",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2024-12-01",
+    "home_team": "New Jersey Devils",
+    "away_team": "Chicago Blackhawks",
+    "home_score": 5,
+    "away_score": 2,
+    "points_total": 7,
+    "location": "Prudential Center, Newark, NJ",
+    "game_status": "Final"
+  }
+]

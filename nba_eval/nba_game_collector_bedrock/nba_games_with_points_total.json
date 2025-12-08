@@ -1,0 +1,3392 @@
+[
+  {
+    "game_date": "2025-10-21",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 125,
+    "away_score": 107,
+    "points_total": 232,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-21",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Indiana Pacers",
+    "home_score": 127,
+    "away_score": 106,
+    "points_total": 233,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-21",
+    "home_team": "LA Clippers",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 111,
+    "away_score": 114,
+    "points_total": 225,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-21",
+    "home_team": "Denver Nuggets",
+    "away_team": "Brooklyn Nets",
+    "home_score": 102,
+    "away_score": 98,
+    "points_total": 200,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-21",
+    "home_team": "Sacramento Kings",
+    "away_team": "Orlando Magic",
+    "home_score": 106,
+    "away_score": 96,
+    "points_total": 202,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-21",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Boston Celtics",
+    "home_score": 99,
+    "away_score": 112,
+    "points_total": 211,
+    "location": "Spectrum Center, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-21",
+    "home_team": "New York Knicks",
+    "away_team": "Dallas Mavericks",
+    "home_score": 106,
+    "away_score": 113,
+    "points_total": 219,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-21",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 111,
+    "away_score": 109,
+    "points_total": 220,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-21",
+    "home_team": "Utah Jazz",
+    "away_team": "Toronto Raptors",
+    "home_score": 114,
+    "away_score": 121,
+    "points_total": 235,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Minnesota Timberwolves",
+    "home_score": 114,
+    "away_score": 113,
+    "points_total": 227,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "Sacramento Kings",
+    "away_team": "Toronto Raptors",
+    "home_score": 99,
+    "away_score": 106,
+    "points_total": 205,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "Washington Wizards",
+    "away_team": "LA Clippers",
+    "home_score": 129,
+    "away_score": 114,
+    "points_total": 243,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Brooklyn Nets",
+    "home_score": 116,
+    "away_score": 112,
+    "points_total": 228,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 116,
+    "away_score": 99,
+    "points_total": 215,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "Orlando Magic",
+    "away_team": "Atlanta Hawks",
+    "home_score": 114,
+    "away_score": 121,
+    "points_total": 235,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "Houston Rockets",
+    "away_team": "Denver Nuggets",
+    "home_score": 109,
+    "away_score": 102,
+    "points_total": 211,
+    "location": "Toyota Center, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "Indiana Pacers",
+    "away_team": "Charlotte Hornets",
+    "home_score": 108,
+    "away_score": 95,
+    "points_total": 203,
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "Detroit Pistons",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 115,
+    "away_score": 108,
+    "points_total": 223,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-22",
+    "home_team": "Golden State Warriors",
+    "away_team": "Chicago Bulls",
+    "home_score": 116,
+    "away_score": 101,
+    "points_total": 217,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-23",
+    "home_team": "Chicago Bulls",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 121,
+    "away_score": 97,
+    "points_total": 218,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-23",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 128,
+    "away_score": 99,
+    "points_total": 227,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-23",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Washington Wizards",
+    "home_score": 107,
+    "away_score": 108,
+    "points_total": 215,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-23",
+    "home_team": "Detroit Pistons",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 122,
+    "away_score": 115,
+    "points_total": 237,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-24",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Utah Jazz",
+    "home_score": 106,
+    "away_score": 118,
+    "points_total": 224,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-24",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Indiana Pacers",
+    "home_score": 102,
+    "away_score": 115,
+    "points_total": 217,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-24",
+    "home_team": "Phoenix Suns",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 105,
+    "away_score": 111,
+    "points_total": 216,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-24",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "San Antonio Spurs",
+    "home_score": 115,
+    "away_score": 98,
+    "points_total": 213,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-24",
+    "home_team": "Toronto Raptors",
+    "away_team": "Sacramento Kings",
+    "home_score": 102,
+    "away_score": 106,
+    "points_total": 208,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-24",
+    "home_team": "Miami Heat",
+    "away_team": "Houston Rockets",
+    "home_score": 125,
+    "away_score": 96,
+    "points_total": 221,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-24",
+    "home_team": "Detroit Pistons",
+    "away_team": "Brooklyn Nets",
+    "home_score": 122,
+    "away_score": 124,
+    "points_total": 246,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Golden State Warriors",
+    "home_score": 122,
+    "away_score": 115,
+    "points_total": 237,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Denver Nuggets",
+    "away_team": "Orlando Magic",
+    "home_score": 103,
+    "away_score": 121,
+    "points_total": 224,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Detroit Pistons",
+    "away_team": "New York Knicks",
+    "home_score": 110,
+    "away_score": 125,
+    "points_total": 235,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Sacramento Kings",
+    "away_team": "Dallas Mavericks",
+    "home_score": 109,
+    "away_score": 96,
+    "points_total": 205,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Boston Celtics",
+    "home_score": 125,
+    "away_score": 123,
+    "points_total": 248,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "LA Clippers",
+    "away_team": "Minnesota Timberwolves",
+    "home_score": 104,
+    "away_score": 120,
+    "points_total": 224,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Utah Jazz",
+    "home_score": 102,
+    "away_score": 108,
+    "points_total": 210,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Phoenix Suns",
+    "away_team": "Houston Rockets",
+    "home_score": 114,
+    "away_score": 106,
+    "points_total": 220,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Charlotte Hornets",
+    "home_score": 123,
+    "away_score": 103,
+    "points_total": 226,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Chicago Bulls",
+    "away_team": "Toronto Raptors",
+    "home_score": 100,
+    "away_score": 117,
+    "points_total": 217,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Atlanta Hawks",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 110,
+    "away_score": 95,
+    "points_total": 205,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-25",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 122,
+    "away_score": 112,
+    "points_total": 234,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Indiana Pacers",
+    "home_score": 123,
+    "away_score": 99,
+    "points_total": 222,
+    "location": "Spectrum Center, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Detroit Pistons",
+    "away_team": "Toronto Raptors",
+    "home_score": 115,
+    "away_score": 103,
+    "points_total": 218,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Washington Wizards",
+    "away_team": "Orlando Magic",
+    "home_score": 100,
+    "away_score": 110,
+    "points_total": 210,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Miami Heat",
+    "away_team": "Atlanta Hawks",
+    "home_score": 126,
+    "away_score": 110,
+    "points_total": 236,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "New York Knicks",
+    "away_team": "Houston Rockets",
+    "home_score": 101,
+    "away_score": 102,
+    "points_total": 203,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Golden State Warriors",
+    "away_team": "San Antonio Spurs",
+    "home_score": 101,
+    "away_score": 118,
+    "points_total": 219,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Boston Celtics",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 126,
+    "away_score": 99,
+    "points_total": 225,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Utah Jazz",
+    "home_score": 105,
+    "away_score": 103,
+    "points_total": 208,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Chicago Bulls",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 125,
+    "away_score": 112,
+    "points_total": 237,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Dallas Mavericks",
+    "home_score": 102,
+    "away_score": 115,
+    "points_total": 217,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-27",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Boston Celtics",
+    "home_score": 114,
+    "away_score": 113,
+    "points_total": 227,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-27",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "San Antonio Spurs",
+    "home_score": 112,
+    "away_score": 101,
+    "points_total": 213,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-27",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Houston Rockets",
+    "home_score": 124,
+    "away_score": 112,
+    "points_total": 236,
+    "location": "Spectrum Center, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-27",
+    "home_team": "Miami Heat",
+    "away_team": "Golden State Warriors",
+    "home_score": 104,
+    "away_score": 98,
+    "points_total": 202,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-29",
+    "home_team": "Chicago Bulls",
+    "away_team": "Houston Rockets",
+    "home_score": 125,
+    "away_score": 121,
+    "points_total": 246,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-29",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 107,
+    "away_score": 123,
+    "points_total": 230,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-29",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Miami Heat",
+    "home_score": 116,
+    "away_score": 113,
+    "points_total": 229,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-29",
+    "home_team": "Denver Nuggets",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 104,
+    "away_score": 111,
+    "points_total": 215,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-29",
+    "home_team": "Utah Jazz",
+    "away_team": "Minnesota Timberwolves",
+    "home_score": 111,
+    "away_score": 125,
+    "points_total": 236,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-29",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Phoenix Suns",
+    "home_score": 119,
+    "away_score": 98,
+    "points_total": 217,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-29",
+    "home_team": "Golden State Warriors",
+    "away_team": "New York Knicks",
+    "home_score": 109,
+    "away_score": 110,
+    "points_total": 219,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-29",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "San Antonio Spurs",
+    "home_score": 124,
+    "away_score": 115,
+    "points_total": 239,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-30",
+    "home_team": "Charlotte Hornets",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 101,
+    "away_score": 117,
+    "points_total": 218,
+    "location": "Spectrum Center, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-30",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 104,
+    "away_score": 96,
+    "points_total": 200,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-30",
+    "home_team": "Toronto Raptors",
+    "away_team": "Detroit Pistons",
+    "home_score": 122,
+    "away_score": 104,
+    "points_total": 226,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-30",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Golden State Warriors",
+    "home_score": 127,
+    "away_score": 120,
+    "points_total": 247,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-30",
+    "home_team": "Orlando Magic",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 99,
+    "away_score": 117,
+    "points_total": 216,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-31",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Phoenix Suns",
+    "home_score": 122,
+    "away_score": 104,
+    "points_total": 226,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-31",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 102,
+    "away_score": 103,
+    "points_total": 205,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-31",
+    "home_team": "Washington Wizards",
+    "away_team": "LA Clippers",
+    "home_score": 118,
+    "away_score": 113,
+    "points_total": 231,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-31",
+    "home_team": "Miami Heat",
+    "away_team": "Charlotte Hornets",
+    "home_score": 99,
+    "away_score": 121,
+    "points_total": 220,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-31",
+    "home_team": "Golden State Warriors",
+    "away_team": "Dallas Mavericks",
+    "home_score": 105,
+    "away_score": 109,
+    "points_total": 214,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-31",
+    "home_team": "Sacramento Kings",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 111,
+    "away_score": 112,
+    "points_total": 223,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-31",
+    "home_team": "Boston Celtics",
+    "away_team": "San Antonio Spurs",
+    "home_score": 124,
+    "away_score": 121,
+    "points_total": 245,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-31",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 125,
+    "away_score": 116,
+    "points_total": 241,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "Detroit Pistons",
+    "away_team": "Boston Celtics",
+    "home_score": 98,
+    "away_score": 108,
+    "points_total": 206,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "Toronto Raptors",
+    "away_team": "Washington Wizards",
+    "home_score": 118,
+    "away_score": 111,
+    "points_total": 229,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Utah Jazz",
+    "home_score": 117,
+    "away_score": 121,
+    "points_total": 238,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Dallas Mavericks",
+    "home_score": 101,
+    "away_score": 104,
+    "points_total": 205,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "Golden State Warriors",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 115,
+    "away_score": 100,
+    "points_total": 215,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "Chicago Bulls",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 109,
+    "away_score": 102,
+    "points_total": 211,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "Orlando Magic",
+    "away_team": "Charlotte Hornets",
+    "home_score": 122,
+    "away_score": 116,
+    "points_total": 238,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "Sacramento Kings",
+    "away_team": "Phoenix Suns",
+    "home_score": 124,
+    "away_score": 111,
+    "points_total": 235,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "New York Knicks",
+    "away_team": "Houston Rockets",
+    "home_score": 107,
+    "away_score": 123,
+    "points_total": 230,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Indiana Pacers",
+    "home_score": 112,
+    "away_score": 99,
+    "points_total": 211,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-01",
+    "home_team": "Denver Nuggets",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 116,
+    "away_score": 107,
+    "points_total": 223,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "San Antonio Spurs",
+    "home_score": 110,
+    "away_score": 120,
+    "points_total": 230,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "LA Clippers",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 109,
+    "away_score": 118,
+    "points_total": 227,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "New York Knicks",
+    "home_score": 117,
+    "away_score": 107,
+    "points_total": 224,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Orlando Magic",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 103,
+    "away_score": 107,
+    "points_total": 210,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Miami Heat",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 104,
+    "away_score": 108,
+    "points_total": 212,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Boston Celtics",
+    "home_score": 115,
+    "away_score": 97,
+    "points_total": 212,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Detroit Pistons",
+    "home_score": 115,
+    "away_score": 112,
+    "points_total": 227,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Denver Nuggets",
+    "away_team": "Utah Jazz",
+    "home_score": 112,
+    "away_score": 113,
+    "points_total": 225,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Sacramento Kings",
+    "home_score": 123,
+    "away_score": 111,
+    "points_total": 234,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Phoenix Suns",
+    "away_team": "Houston Rockets",
+    "home_score": 105,
+    "away_score": 103,
+    "points_total": 208,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Golden State Warriors",
+    "away_team": "Toronto Raptors",
+    "home_score": 111,
+    "away_score": 116,
+    "points_total": 227,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Washington Wizards",
+    "home_score": 128,
+    "away_score": 116,
+    "points_total": 244,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-04",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 114,
+    "away_score": 107,
+    "points_total": 221,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-04",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 119,
+    "away_score": 115,
+    "points_total": 234,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-04",
+    "home_team": "New York Knicks",
+    "away_team": "LA Clippers",
+    "home_score": 127,
+    "away_score": 113,
+    "points_total": 240,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-04",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Atlanta Hawks",
+    "home_score": 105,
+    "away_score": 124,
+    "points_total": 229,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-04",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Boston Celtics",
+    "home_score": 109,
+    "away_score": 108,
+    "points_total": 217,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-04",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Sacramento Kings",
+    "home_score": 115,
+    "away_score": 116,
+    "points_total": 231,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-05",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Miami Heat",
+    "home_score": 110,
+    "away_score": 100,
+    "points_total": 210,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-05",
+    "home_team": "Sacramento Kings",
+    "away_team": "Indiana Pacers",
+    "home_score": 128,
+    "away_score": 101,
+    "points_total": 229,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-05",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 99,
+    "away_score": 102,
+    "points_total": 201,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-05",
+    "home_team": "Chicago Bulls",
+    "away_team": "San Antonio Spurs",
+    "home_score": 122,
+    "away_score": 105,
+    "points_total": 227,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-05",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Washington Wizards",
+    "home_score": 96,
+    "away_score": 106,
+    "points_total": 202,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-05",
+    "home_team": "Denver Nuggets",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 106,
+    "away_score": 101,
+    "points_total": 207,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-05",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 98,
+    "away_score": 115,
+    "points_total": 213,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-05",
+    "home_team": "Phoenix Suns",
+    "away_team": "Detroit Pistons",
+    "home_score": 100,
+    "away_score": 97,
+    "points_total": 197,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-06",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 100,
+    "away_score": 110,
+    "points_total": 210,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-06",
+    "home_team": "New York Knicks",
+    "away_team": "Detroit Pistons",
+    "home_score": 113,
+    "away_score": 110,
+    "points_total": 223,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-06",
+    "home_team": "Indiana Pacers",
+    "away_team": "Charlotte Hornets",
+    "home_score": 114,
+    "away_score": 99,
+    "points_total": 213,
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-06",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Chicago Bulls",
+    "home_score": 100,
+    "away_score": 103,
+    "points_total": 203,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-06",
+    "home_team": "Toronto Raptors",
+    "away_team": "LA Clippers",
+    "home_score": 122,
+    "away_score": 99,
+    "points_total": 221,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-07",
+    "home_team": "Indiana Pacers",
+    "away_team": "Miami Heat",
+    "home_score": 109,
+    "away_score": 113,
+    "points_total": 222,
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-07",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 117,
+    "away_score": 95,
+    "points_total": 212,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-07",
+    "home_team": "Utah Jazz",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 104,
+    "away_score": 118,
+    "points_total": 222,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-07",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Sacramento Kings",
+    "home_score": 110,
+    "away_score": 111,
+    "points_total": 221,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-07",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Toronto Raptors",
+    "home_score": 110,
+    "away_score": 97,
+    "points_total": 207,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-07",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Denver Nuggets",
+    "home_score": 102,
+    "away_score": 103,
+    "points_total": 205,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-07",
+    "home_team": "Orlando Magic",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 109,
+    "away_score": 125,
+    "points_total": 234,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "LA Clippers",
+    "away_team": "Brooklyn Nets",
+    "home_score": 118,
+    "away_score": 125,
+    "points_total": 243,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "Washington Wizards",
+    "away_team": "Boston Celtics",
+    "home_score": 104,
+    "away_score": 117,
+    "points_total": 221,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "Golden State Warriors",
+    "away_team": "New York Knicks",
+    "home_score": 97,
+    "away_score": 103,
+    "points_total": 200,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 100,
+    "away_score": 115,
+    "points_total": 215,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 123,
+    "away_score": 109,
+    "points_total": 232,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Utah Jazz",
+    "home_score": 111,
+    "away_score": 99,
+    "points_total": 210,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "Toronto Raptors",
+    "away_team": "Charlotte Hornets",
+    "home_score": 104,
+    "away_score": 115,
+    "points_total": 219,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "Detroit Pistons",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 119,
+    "away_score": 115,
+    "points_total": 234,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "Miami Heat",
+    "away_team": "Sacramento Kings",
+    "home_score": 100,
+    "away_score": 123,
+    "points_total": 223,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-08",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 99,
+    "away_score": 98,
+    "points_total": 197,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Denver Nuggets",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 123,
+    "away_score": 107,
+    "points_total": 230,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 119,
+    "away_score": 96,
+    "points_total": 215,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Houston Rockets",
+    "away_team": "Boston Celtics",
+    "home_score": 100,
+    "away_score": 98,
+    "points_total": 198,
+    "location": "Toyota Center, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "New York Knicks",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 123,
+    "away_score": 113,
+    "points_total": 236,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Toronto Raptors",
+    "home_score": 109,
+    "away_score": 102,
+    "points_total": 211,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "LA Clippers",
+    "home_score": 117,
+    "away_score": 111,
+    "points_total": 228,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Chicago Bulls",
+    "away_team": "Miami Heat",
+    "home_score": 121,
+    "away_score": 101,
+    "points_total": 222,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Sacramento Kings",
+    "away_team": "Brooklyn Nets",
+    "home_score": 99,
+    "away_score": 123,
+    "points_total": 222,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-10",
+    "home_team": "Miami Heat",
+    "away_team": "Chicago Bulls",
+    "home_score": 123,
+    "away_score": 116,
+    "points_total": 239,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-10",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Utah Jazz",
+    "home_score": 105,
+    "away_score": 101,
+    "points_total": 206,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-10",
+    "home_team": "Toronto Raptors",
+    "away_team": "Dallas Mavericks",
+    "home_score": 122,
+    "away_score": 112,
+    "points_total": 234,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-10",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 114,
+    "away_score": 99,
+    "points_total": 213,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-10",
+    "home_team": "Denver Nuggets",
+    "away_team": "Washington Wizards",
+    "home_score": 125,
+    "away_score": 109,
+    "points_total": 234,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-10",
+    "home_team": "Indiana Pacers",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 99,
+    "away_score": 125,
+    "points_total": 224,
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-11",
+    "home_team": "Houston Rockets",
+    "away_team": "Washington Wizards",
+    "home_score": 97,
+    "away_score": 98,
+    "points_total": 195,
+    "location": "Toyota Center, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-11",
+    "home_team": "Golden State Warriors",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 127,
+    "away_score": 97,
+    "points_total": 224,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-11",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Denver Nuggets",
+    "home_score": 123,
+    "away_score": 115,
+    "points_total": 238,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-11",
+    "home_team": "Detroit Pistons",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 116,
+    "away_score": 122,
+    "points_total": 238,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-11",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Charlotte Hornets",
+    "home_score": 102,
+    "away_score": 125,
+    "points_total": 227,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-11",
+    "home_team": "Dallas Mavericks",
+    "away_team": "LA Clippers",
+    "home_score": 103,
+    "away_score": 107,
+    "points_total": 210,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-11",
+    "home_team": "Phoenix Suns",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 115,
+    "away_score": 95,
+    "points_total": 210,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-12",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Houston Rockets",
+    "home_score": 117,
+    "away_score": 121,
+    "points_total": 238,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-12",
+    "home_team": "New York Knicks",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 127,
+    "away_score": 111,
+    "points_total": 238,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-12",
+    "home_team": "Boston Celtics",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 121,
+    "away_score": 97,
+    "points_total": 218,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-12",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Golden State Warriors",
+    "home_score": 125,
+    "away_score": 95,
+    "points_total": 220,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-12",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Sacramento Kings",
+    "home_score": 114,
+    "away_score": 103,
+    "points_total": 217,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-12",
+    "home_team": "Orlando Magic",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 108,
+    "away_score": 119,
+    "points_total": 227,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-12",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "LA Clippers",
+    "home_score": 122,
+    "away_score": 113,
+    "points_total": 235,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-13",
+    "home_team": "Washington Wizards",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 122,
+    "away_score": 117,
+    "points_total": 239,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-13",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Golden State Warriors",
+    "home_score": 117,
+    "away_score": 119,
+    "points_total": 236,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-13",
+    "home_team": "New York Knicks",
+    "away_team": "Utah Jazz",
+    "home_score": 106,
+    "away_score": 96,
+    "points_total": 202,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-13",
+    "home_team": "Toronto Raptors",
+    "away_team": "Charlotte Hornets",
+    "home_score": 126,
+    "away_score": 121,
+    "points_total": 247,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-13",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Dallas Mavericks",
+    "home_score": 104,
+    "away_score": 98,
+    "points_total": 202,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 122,
+    "away_score": 104,
+    "points_total": 226,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Utah Jazz",
+    "away_team": "Phoenix Suns",
+    "home_score": 125,
+    "away_score": 95,
+    "points_total": 220,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 124,
+    "away_score": 116,
+    "points_total": 240,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Orlando Magic",
+    "home_score": 101,
+    "away_score": 112,
+    "points_total": 213,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Golden State Warriors",
+    "away_team": "New York Knicks",
+    "home_score": 123,
+    "away_score": 116,
+    "points_total": 239,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Indiana Pacers",
+    "home_score": 113,
+    "away_score": 114,
+    "points_total": 227,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Denver Nuggets",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 124,
+    "away_score": 112,
+    "points_total": 236,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Chicago Bulls",
+    "home_score": 124,
+    "away_score": 110,
+    "points_total": 234,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Miami Heat",
+    "away_team": "Toronto Raptors",
+    "home_score": 121,
+    "away_score": 112,
+    "points_total": 233,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-14",
+    "home_team": "Boston Celtics",
+    "away_team": "Houston Rockets",
+    "home_score": 127,
+    "away_score": 102,
+    "points_total": 229,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Atlanta Hawks",
+    "home_score": 107,
+    "away_score": 122,
+    "points_total": 229,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "New York Knicks",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 121,
+    "away_score": 101,
+    "points_total": 222,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Dallas Mavericks",
+    "home_score": 109,
+    "away_score": 103,
+    "points_total": 212,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "Miami Heat",
+    "away_team": "Indiana Pacers",
+    "home_score": 126,
+    "away_score": 96,
+    "points_total": 222,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "Orlando Magic",
+    "away_team": "Houston Rockets",
+    "home_score": 121,
+    "away_score": 103,
+    "points_total": 224,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "LA Clippers",
+    "away_team": "Utah Jazz",
+    "home_score": 106,
+    "away_score": 117,
+    "points_total": 223,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Phoenix Suns",
+    "home_score": 98,
+    "away_score": 100,
+    "points_total": 198,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "Sacramento Kings",
+    "away_team": "Boston Celtics",
+    "home_score": 96,
+    "away_score": 103,
+    "points_total": 199,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "Chicago Bulls",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 120,
+    "away_score": 125,
+    "points_total": 245,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "Washington Wizards",
+    "away_team": "Brooklyn Nets",
+    "home_score": 112,
+    "away_score": 118,
+    "points_total": 230,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-15",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "San Antonio Spurs",
+    "home_score": 111,
+    "away_score": 96,
+    "points_total": 207,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Brooklyn Nets",
+    "away_team": "New York Knicks",
+    "home_score": 100,
+    "away_score": 97,
+    "points_total": 197,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 108,
+    "away_score": 115,
+    "points_total": 223,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Utah Jazz",
+    "home_score": 125,
+    "away_score": 97,
+    "points_total": 222,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Miami Heat",
+    "away_team": "Sacramento Kings",
+    "home_score": 117,
+    "away_score": 95,
+    "points_total": 212,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Houston Rockets",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 96,
+    "away_score": 98,
+    "points_total": 194,
+    "location": "Toyota Center, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Toronto Raptors",
+    "away_team": "San Antonio Spurs",
+    "home_score": 115,
+    "away_score": 102,
+    "points_total": 217,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Indiana Pacers",
+    "home_score": 105,
+    "away_score": 101,
+    "points_total": 206,
+    "location": "Spectrum Center, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Denver Nuggets",
+    "home_score": 119,
+    "away_score": 122,
+    "points_total": 241,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Golden State Warriors",
+    "home_score": 99,
+    "away_score": 106,
+    "points_total": 205,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Detroit Pistons",
+    "home_score": 120,
+    "away_score": 107,
+    "points_total": 227,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 117,
+    "away_score": 122,
+    "points_total": 239,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Orlando Magic",
+    "away_team": "Chicago Bulls",
+    "home_score": 127,
+    "away_score": 125,
+    "points_total": 252,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-17",
+    "home_team": "Houston Rockets",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 106,
+    "away_score": 117,
+    "points_total": 223,
+    "location": "Toyota Center, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-17",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "LA Clippers",
+    "home_score": 104,
+    "away_score": 123,
+    "points_total": 227,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-17",
+    "home_team": "Denver Nuggets",
+    "away_team": "Golden State Warriors",
+    "home_score": 101,
+    "away_score": 106,
+    "points_total": 207,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-18",
+    "home_team": "Detroit Pistons",
+    "away_team": "Atlanta Hawks",
+    "home_score": 108,
+    "away_score": 124,
+    "points_total": 232,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-18",
+    "home_team": "Sacramento Kings",
+    "away_team": "Miami Heat",
+    "home_score": 122,
+    "away_score": 112,
+    "points_total": 234,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-18",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Orlando Magic",
+    "home_score": 102,
+    "away_score": 103,
+    "points_total": 205,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-18",
+    "home_team": "Denver Nuggets",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 112,
+    "away_score": 115,
+    "points_total": 227,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-18",
+    "home_team": "New York Knicks",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 99,
+    "away_score": 106,
+    "points_total": 205,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-18",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Houston Rockets",
+    "home_score": 107,
+    "away_score": 98,
+    "points_total": 205,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-18",
+    "home_team": "Chicago Bulls",
+    "away_team": "Boston Celtics",
+    "home_score": 106,
+    "away_score": 102,
+    "points_total": 208,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-19",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 103,
+    "away_score": 98,
+    "points_total": 201,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-19",
+    "home_team": "New York Knicks",
+    "away_team": "San Antonio Spurs",
+    "home_score": 123,
+    "away_score": 114,
+    "points_total": 237,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-19",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "LA Clippers",
+    "home_score": 122,
+    "away_score": 103,
+    "points_total": 225,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-19",
+    "home_team": "Orlando Magic",
+    "away_team": "Minnesota Timberwolves",
+    "home_score": 125,
+    "away_score": 99,
+    "points_total": 224,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-19",
+    "home_team": "Utah Jazz",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 105,
+    "away_score": 112,
+    "points_total": 217,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-19",
+    "home_team": "Detroit Pistons",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 120,
+    "away_score": 111,
+    "points_total": 231,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-20",
+    "home_team": "Miami Heat",
+    "away_team": "Detroit Pistons",
+    "home_score": 121,
+    "away_score": 100,
+    "points_total": 221,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-20",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Indiana Pacers",
+    "home_score": 117,
+    "away_score": 120,
+    "points_total": 237,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-20",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 124,
+    "away_score": 102,
+    "points_total": 226,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-20",
+    "home_team": "Chicago Bulls",
+    "away_team": "Houston Rockets",
+    "home_score": 129,
+    "away_score": 106,
+    "points_total": 235,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-20",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Sacramento Kings",
+    "home_score": 128,
+    "away_score": 105,
+    "points_total": 233,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-20",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 106,
+    "away_score": 108,
+    "points_total": 214,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "Indiana Pacers",
+    "away_team": "Miami Heat",
+    "home_score": 109,
+    "away_score": 125,
+    "points_total": 234,
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Chicago Bulls",
+    "home_score": 103,
+    "away_score": 96,
+    "points_total": 199,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Golden State Warriors",
+    "home_score": 111,
+    "away_score": 104,
+    "points_total": 215,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "Denver Nuggets",
+    "away_team": "Orlando Magic",
+    "home_score": 113,
+    "away_score": 123,
+    "points_total": 236,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Atlanta Hawks",
+    "home_score": 101,
+    "away_score": 108,
+    "points_total": 209,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "Utah Jazz",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 115,
+    "away_score": 100,
+    "points_total": 215,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Detroit Pistons",
+    "home_score": 111,
+    "away_score": 119,
+    "points_total": 230,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "Phoenix Suns",
+    "away_team": "Brooklyn Nets",
+    "home_score": 104,
+    "away_score": 122,
+    "points_total": 226,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 126,
+    "away_score": 103,
+    "points_total": 229,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-21",
+    "home_team": "Washington Wizards",
+    "away_team": "Boston Celtics",
+    "home_score": 103,
+    "away_score": 110,
+    "points_total": 213,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Indiana Pacers",
+    "home_score": 97,
+    "away_score": 101,
+    "points_total": 198,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Golden State Warriors",
+    "home_score": 122,
+    "away_score": 101,
+    "points_total": 223,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Sacramento Kings",
+    "home_score": 123,
+    "away_score": 116,
+    "points_total": 239,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Denver Nuggets",
+    "away_team": "Atlanta Hawks",
+    "home_score": 123,
+    "away_score": 110,
+    "points_total": 233,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Orlando Magic",
+    "away_team": "Utah Jazz",
+    "home_score": 112,
+    "away_score": 111,
+    "points_total": 223,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 113,
+    "away_score": 103,
+    "points_total": 216,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 110,
+    "away_score": 115,
+    "points_total": 225,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "LA Clippers",
+    "away_team": "Charlotte Hornets",
+    "home_score": 127,
+    "away_score": 103,
+    "points_total": 230,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Phoenix Suns",
+    "away_team": "San Antonio Spurs",
+    "home_score": 101,
+    "away_score": 110,
+    "points_total": 211,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Detroit Pistons",
+    "home_score": 122,
+    "away_score": 124,
+    "points_total": 246,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Boston Celtics",
+    "home_score": 113,
+    "away_score": 124,
+    "points_total": 237,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "New York Knicks",
+    "away_team": "Washington Wizards",
+    "home_score": 105,
+    "away_score": 122,
+    "points_total": 227,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-24",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "LA Clippers",
+    "home_score": 127,
+    "away_score": 108,
+    "points_total": 235,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-24",
+    "home_team": "Boston Celtics",
+    "away_team": "Dallas Mavericks",
+    "home_score": 98,
+    "away_score": 119,
+    "points_total": 217,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-24",
+    "home_team": "New York Knicks",
+    "away_team": "San Antonio Spurs",
+    "home_score": 111,
+    "away_score": 99,
+    "points_total": 210,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-24",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Golden State Warriors",
+    "home_score": 98,
+    "away_score": 121,
+    "points_total": 219,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-24",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 98,
+    "away_score": 101,
+    "points_total": 199,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-25",
+    "home_team": "Golden State Warriors",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 127,
+    "away_score": 101,
+    "points_total": 228,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-25",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Utah Jazz",
+    "home_score": 107,
+    "away_score": 115,
+    "points_total": 222,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-25",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 101,
+    "away_score": 121,
+    "points_total": 222,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-25",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 102,
+    "away_score": 110,
+    "points_total": 212,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-25",
+    "home_team": "Orlando Magic",
+    "away_team": "San Antonio Spurs",
+    "home_score": 123,
+    "away_score": 110,
+    "points_total": 233,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-25",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Houston Rockets",
+    "home_score": 120,
+    "away_score": 102,
+    "points_total": 222,
+    "location": "Barclays Center, Brooklyn, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-26",
+    "home_team": "Detroit Pistons",
+    "away_team": "Washington Wizards",
+    "home_score": 111,
+    "away_score": 97,
+    "points_total": 208,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-26",
+    "home_team": "Utah Jazz",
+    "away_team": "Toronto Raptors",
+    "home_score": 110,
+    "away_score": 98,
+    "points_total": 208,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-26",
+    "home_team": "Phoenix Suns",
+    "away_team": "San Antonio Spurs",
+    "home_score": 108,
+    "away_score": 113,
+    "points_total": 221,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-26",
+    "home_team": "LA Clippers",
+    "away_team": "Indiana Pacers",
+    "home_score": 103,
+    "away_score": 101,
+    "points_total": 204,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-26",
+    "home_team": "Chicago Bulls",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 125,
+    "away_score": 106,
+    "points_total": 231,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-26",
+    "home_team": "Golden State Warriors",
+    "away_team": "Brooklyn Nets",
+    "home_score": 100,
+    "away_score": 106,
+    "points_total": 206,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-26",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "New York Knicks",
+    "home_score": 105,
+    "away_score": 124,
+    "points_total": 229,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-26",
+    "home_team": "Sacramento Kings",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 128,
+    "away_score": 112,
+    "points_total": 240,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-26",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Boston Celtics",
+    "home_score": 130,
+    "away_score": 97,
+    "points_total": 227,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-27",
+    "home_team": "LA Clippers",
+    "away_team": "Indiana Pacers",
+    "home_score": 112,
+    "away_score": 95,
+    "points_total": 207,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-27",
+    "home_team": "Boston Celtics",
+    "away_team": "Atlanta Hawks",
+    "home_score": 117,
+    "away_score": 102,
+    "points_total": 219,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-27",
+    "home_team": "Sacramento Kings",
+    "away_team": "Denver Nuggets",
+    "home_score": 110,
+    "away_score": 101,
+    "points_total": 211,
+    "location": "Golden 1 Center, Sacramento, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-27",
+    "home_team": "Orlando Magic",
+    "away_team": "Toronto Raptors",
+    "home_score": 118,
+    "away_score": 103,
+    "points_total": 221,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-27",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 109,
+    "away_score": 108,
+    "points_total": 217,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-27",
+    "home_team": "Chicago Bulls",
+    "away_team": "Detroit Pistons",
+    "home_score": 117,
+    "away_score": 103,
+    "points_total": 220,
+    "location": "United Center, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-27",
+    "home_team": "Washington Wizards",
+    "away_team": "Philadelphia 76ers",
+    "home_score": 122,
+    "away_score": 101,
+    "points_total": 223,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-28",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Brooklyn Nets",
+    "home_score": 106,
+    "away_score": 111,
+    "points_total": 217,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-28",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Phoenix Suns",
+    "home_score": 113,
+    "away_score": 118,
+    "points_total": 231,
+    "location": "State Farm Arena, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-28",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Washington Wizards",
+    "home_score": 111,
+    "away_score": 117,
+    "points_total": 228,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-28",
+    "home_team": "New York Knicks",
+    "away_team": "San Antonio Spurs",
+    "home_score": 128,
+    "away_score": 105,
+    "points_total": 233,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-28",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Milwaukee Bucks",
+    "home_score": 126,
+    "away_score": 114,
+    "points_total": 240,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-28",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Sacramento Kings",
+    "home_score": 104,
+    "away_score": 106,
+    "points_total": 210,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-28",
+    "home_team": "Denver Nuggets",
+    "away_team": "Utah Jazz",
+    "home_score": 110,
+    "away_score": 125,
+    "points_total": 235,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "LA Clippers",
+    "away_team": "Orlando Magic",
+    "home_score": 107,
+    "away_score": 120,
+    "points_total": 227,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Denver Nuggets",
+    "away_team": "Minnesota Timberwolves",
+    "home_score": 116,
+    "away_score": 103,
+    "points_total": 219,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Atlanta Hawks",
+    "home_score": 102,
+    "away_score": 118,
+    "points_total": 220,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Chicago Bulls",
+    "home_score": 118,
+    "away_score": 99,
+    "points_total": 217,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Detroit Pistons",
+    "away_team": "Brooklyn Nets",
+    "home_score": 127,
+    "away_score": 96,
+    "points_total": 223,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Indiana Pacers",
+    "away_team": "Utah Jazz",
+    "home_score": 101,
+    "away_score": 97,
+    "points_total": 198,
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Washington Wizards",
+    "away_team": "Phoenix Suns",
+    "home_score": 115,
+    "away_score": 108,
+    "points_total": 223,
+    "location": "Capital One Arena, Washington, DC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Boston Celtics",
+    "away_team": "Miami Heat",
+    "home_score": 118,
+    "away_score": 119,
+    "points_total": 237,
+    "location": "TD Garden, Boston, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 99,
+    "away_score": 125,
+    "points_total": 224,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 113,
+    "away_score": 120,
+    "points_total": 233,
+    "location": "Paycom Center, Oklahoma City, OK",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Golden State Warriors",
+    "home_score": 111,
+    "away_score": 114,
+    "points_total": 225,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Sacramento Kings",
+    "home_score": 102,
+    "away_score": 99,
+    "points_total": 201,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-29",
+    "home_team": "San Antonio Spurs",
+    "away_team": "New York Knicks",
+    "home_score": 100,
+    "away_score": 125,
+    "points_total": 225,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Phoenix Suns",
+    "home_score": 114,
+    "away_score": 120,
+    "points_total": 234,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Houston Rockets",
+    "home_score": 120,
+    "away_score": 121,
+    "points_total": 241,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Utah Jazz",
+    "away_team": "Toronto Raptors",
+    "home_score": 128,
+    "away_score": 101,
+    "points_total": 229,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 108,
+    "away_score": 101,
+    "points_total": 209,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Charlotte Hornets",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 121,
+    "away_score": 117,
+    "points_total": 238,
+    "location": "Spectrum Center, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Golden State Warriors",
+    "away_team": "Washington Wizards",
+    "home_score": 112,
+    "away_score": 107,
+    "points_total": 219,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Indiana Pacers",
+    "home_score": 100,
+    "away_score": 106,
+    "points_total": 206,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "New York Knicks",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 119,
+    "away_score": 97,
+    "points_total": 216,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Denver Nuggets",
+    "home_score": 121,
+    "away_score": 125,
+    "points_total": 246,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Orlando Magic",
+    "away_team": "Memphis Grizzlies",
+    "home_score": 109,
+    "away_score": 114,
+    "points_total": 223,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-01",
+    "home_team": "LA Clippers",
+    "away_team": "Golden State Warriors",
+    "home_score": 104,
+    "away_score": 103,
+    "points_total": 207,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-01",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Indiana Pacers",
+    "home_score": 110,
+    "away_score": 106,
+    "points_total": 216,
+    "location": "Fiserv Forum, Milwaukee, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-01",
+    "home_team": "Denver Nuggets",
+    "away_team": "New Orleans Pelicans",
+    "home_score": 120,
+    "away_score": 107,
+    "points_total": 227,
+    "location": "Ball Arena, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-01",
+    "home_team": "Toronto Raptors",
+    "away_team": "San Antonio Spurs",
+    "home_score": 118,
+    "away_score": 116,
+    "points_total": 234,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-01",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Los Angeles Lakers",
+    "home_score": 114,
+    "away_score": 108,
+    "points_total": 222,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-01",
+    "home_team": "Orlando Magic",
+    "away_team": "New York Knicks",
+    "home_score": 101,
+    "away_score": 107,
+    "points_total": 208,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-02",
+    "home_team": "Golden State Warriors",
+    "away_team": "Toronto Raptors",
+    "home_score": 98,
+    "away_score": 104,
+    "points_total": 202,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-02",
+    "home_team": "Phoenix Suns",
+    "away_team": "Detroit Pistons",
+    "home_score": 101,
+    "away_score": 104,
+    "points_total": 205,
+    "location": "Footprint Center, Phoenix, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-02",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Boston Celtics",
+    "home_score": 122,
+    "away_score": 121,
+    "points_total": 243,
+    "location": "Frost Bank Center, San Antonio, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-02",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Indiana Pacers",
+    "home_score": 116,
+    "away_score": 103,
+    "points_total": 219,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-02",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Chicago Bulls",
+    "home_score": 109,
+    "away_score": 104,
+    "points_total": 213,
+    "location": "Spectrum Center, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-02",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "LA Clippers",
+    "home_score": 106,
+    "away_score": 122,
+    "points_total": 228,
+    "location": "Moda Center, Portland, OR",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-03",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Atlanta Hawks",
+    "home_score": 127,
+    "away_score": 121,
+    "points_total": 248,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-03",
+    "home_team": "Golden State Warriors",
+    "away_team": "Portland Trail Blazers",
+    "home_score": 113,
+    "away_score": 120,
+    "points_total": 233,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-03",
+    "home_team": "LA Clippers",
+    "away_team": "Phoenix Suns",
+    "home_score": 113,
+    "away_score": 105,
+    "points_total": 218,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-03",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Boston Celtics",
+    "home_score": 110,
+    "away_score": 113,
+    "points_total": 223,
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-03",
+    "home_team": "Miami Heat",
+    "away_team": "Oklahoma City Thunder",
+    "home_score": 97,
+    "away_score": 112,
+    "points_total": 209,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-03",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Denver Nuggets",
+    "home_score": 104,
+    "away_score": 107,
+    "points_total": 211,
+    "location": "Target Center, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-03",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Sacramento Kings",
+    "home_score": 111,
+    "away_score": 110,
+    "points_total": 221,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-03",
+    "home_team": "Utah Jazz",
+    "away_team": "Charlotte Hornets",
+    "home_score": 98,
+    "away_score": 109,
+    "points_total": 207,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-03",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 106,
+    "away_score": 114,
+    "points_total": 220,
+    "location": "FedExForum, Memphis, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-04",
+    "home_team": "Golden State Warriors",
+    "away_team": "Phoenix Suns",
+    "home_score": 119,
+    "away_score": 97,
+    "points_total": 216,
+    "location": "Chase Center, San Francisco, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-04",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Cleveland Cavaliers",
+    "home_score": 113,
+    "away_score": 114,
+    "points_total": 227,
+    "location": "American Airlines Center, Dallas, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-04",
+    "home_team": "Utah Jazz",
+    "away_team": "Atlanta Hawks",
+    "home_score": 122,
+    "away_score": 99,
+    "points_total": 221,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-04",
+    "home_team": "Orlando Magic",
+    "away_team": "Minnesota Timberwolves",
+    "home_score": 125,
+    "away_score": 115,
+    "points_total": 240,
+    "location": "Kia Center, Orlando, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-04",
+    "home_team": "Detroit Pistons",
+    "away_team": "Chicago Bulls",
+    "home_score": 128,
+    "away_score": 98,
+    "points_total": 226,
+    "location": "Little Caesars Arena, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-04",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Toronto Raptors",
+    "home_score": 100,
+    "away_score": 119,
+    "points_total": 219,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-05",
+    "home_team": "New York Knicks",
+    "away_team": "Orlando Magic",
+    "home_score": 108,
+    "away_score": 125,
+    "points_total": 233,
+    "location": "Madison Square Garden, New York, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-05",
+    "home_team": "Charlotte Hornets",
+    "away_team": "San Antonio Spurs",
+    "home_score": 126,
+    "away_score": 124,
+    "points_total": 250,
+    "location": "Spectrum Center, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-05",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Denver Nuggets",
+    "home_score": 122,
+    "away_score": 101,
+    "points_total": 223,
+    "location": "Smoothie King Center, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-05",
+    "home_team": "Utah Jazz",
+    "away_team": "Brooklyn Nets",
+    "home_score": 126,
+    "away_score": 106,
+    "points_total": 232,
+    "location": "Delta Center, Salt Lake City, UT",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-05",
+    "home_team": "Indiana Pacers",
+    "away_team": "Boston Celtics",
+    "home_score": 111,
+    "away_score": 109,
+    "points_total": 220,
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-05",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Atlanta Hawks",
+    "home_score": 115,
+    "away_score": 116,
+    "points_total": 231,
+    "location": "Rocket Mortgage FieldHouse, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-05",
+    "home_team": "Toronto Raptors",
+    "away_team": "Washington Wizards",
+    "home_score": 124,
+    "away_score": 114,
+    "points_total": 238,
+    "location": "Scotiabank Arena, Toronto, ON",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-05",
+    "home_team": "Miami Heat",
+    "away_team": "LA Clippers",
+    "home_score": 113,
+    "away_score": 117,
+    "points_total": 230,
+    "location": "Kaseya Center, Miami, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-05",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Houston Rockets",
+    "home_score": 100,
+    "away_score": 113,
+    "points_total": 213,
+    "location": "Wells Fargo Center, Philadelphia, PA",
+    "game_status": "Final"
+  }
+]

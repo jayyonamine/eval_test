@@ -1,0 +1,2732 @@
+[
+  {
+    "game_date": "2025-09-04",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Chicago Bears",
+    "home_score": 38,
+    "away_score": 24,
+    "points_total": 62,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Miami Dolphins",
+    "away_team": "Washington Commanders",
+    "home_score": 36,
+    "away_score": 29,
+    "points_total": 65,
+    "location": "Hard Rock Stadium, Miami Gardens, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "New York Jets",
+    "away_team": "New York Giants",
+    "home_score": 19,
+    "away_score": 17,
+    "points_total": 36,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Cleveland Browns",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 29,
+    "away_score": 15,
+    "points_total": 44,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Los Angeles Rams",
+    "away_team": "Pittsburgh Steelers",
+    "home_score": 20,
+    "away_score": 19,
+    "points_total": 39,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Seattle Seahawks",
+    "home_score": 21,
+    "away_score": 27,
+    "points_total": 48,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Carolina Panthers",
+    "away_team": "Baltimore Ravens",
+    "home_score": 16,
+    "away_score": 27,
+    "points_total": 43,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Tennessee Titans",
+    "home_score": 19,
+    "away_score": 10,
+    "points_total": 29,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "New England Patriots",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 22,
+    "away_score": 26,
+    "points_total": 48,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Houston Texans",
+    "away_team": "Atlanta Falcons",
+    "home_score": 24,
+    "away_score": 26,
+    "points_total": 50,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Indianapolis Colts",
+    "home_score": 19,
+    "away_score": 28,
+    "points_total": 47,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 13,
+    "away_score": 31,
+    "points_total": 44,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Dallas Cowboys",
+    "home_score": 12,
+    "away_score": 16,
+    "points_total": 28,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-07",
+    "home_team": "Denver Broncos",
+    "away_team": "Detroit Lions",
+    "home_score": 17,
+    "away_score": 14,
+    "points_total": 31,
+    "location": "Empower Field at Mile High, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-08",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Houston Texans",
+    "home_score": 12,
+    "away_score": 33,
+    "points_total": 45,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-08",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Buffalo Bills",
+    "home_score": 34,
+    "away_score": 21,
+    "points_total": 55,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-11",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 32,
+    "away_score": 13,
+    "points_total": 45,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Tennessee Titans",
+    "home_score": 30,
+    "away_score": 21,
+    "points_total": 51,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "New Orleans Saints",
+    "away_team": "Carolina Panthers",
+    "home_score": 13,
+    "away_score": 27,
+    "points_total": 40,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Washington Commanders",
+    "away_team": "Miami Dolphins",
+    "home_score": 14,
+    "away_score": 31,
+    "points_total": 45,
+    "location": "Northwest Stadium, Landover, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Buffalo Bills",
+    "away_team": "Philadelphia Eagles",
+    "home_score": 25,
+    "away_score": 21,
+    "points_total": 46,
+    "location": "Highmark Stadium, Orchard Park, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "New York Jets",
+    "away_team": "Detroit Lions",
+    "home_score": 23,
+    "away_score": 12,
+    "points_total": 35,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 36,
+    "away_score": 12,
+    "points_total": 48,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Indianapolis Colts",
+    "home_score": 35,
+    "away_score": 26,
+    "points_total": 61,
+    "location": "EverBank Stadium, Jacksonville, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Houston Texans",
+    "home_score": 26,
+    "away_score": 27,
+    "points_total": 53,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Minnesota Vikings",
+    "home_score": 21,
+    "away_score": 18,
+    "points_total": 39,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Chicago Bears",
+    "away_team": "Arizona Cardinals",
+    "home_score": 15,
+    "away_score": 32,
+    "points_total": 47,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Cleveland Browns",
+    "home_score": 21,
+    "away_score": 14,
+    "points_total": 35,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-14",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "San Francisco 49ers",
+    "home_score": 30,
+    "away_score": 19,
+    "points_total": 49,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-15",
+    "home_team": "Green Bay Packers",
+    "away_team": "Houston Texans",
+    "home_score": 18,
+    "away_score": 31,
+    "points_total": 49,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-18",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Arizona Cardinals",
+    "home_score": 22,
+    "away_score": 11,
+    "points_total": 33,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "Houston Texans",
+    "away_team": "Buffalo Bills",
+    "home_score": 14,
+    "away_score": 16,
+    "points_total": 30,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "Cleveland Browns",
+    "away_team": "Tennessee Titans",
+    "home_score": 32,
+    "away_score": 14,
+    "points_total": 46,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "Baltimore Ravens",
+    "away_team": "Seattle Seahawks",
+    "home_score": 23,
+    "away_score": 25,
+    "points_total": 48,
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Chicago Bears",
+    "home_score": 18,
+    "away_score": 20,
+    "points_total": 38,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 28,
+    "away_score": 29,
+    "points_total": 57,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "New England Patriots",
+    "away_team": "Green Bay Packers",
+    "home_score": 19,
+    "away_score": 27,
+    "points_total": 46,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Atlanta Falcons",
+    "home_score": 18,
+    "away_score": 20,
+    "points_total": 38,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "Los Angeles Rams",
+    "away_team": "Philadelphia Eagles",
+    "home_score": 36,
+    "away_score": 28,
+    "points_total": 64,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Denver Broncos",
+    "home_score": 26,
+    "away_score": 23,
+    "points_total": 49,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "Carolina Panthers",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 12,
+    "away_score": 31,
+    "points_total": 43,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "Detroit Lions",
+    "away_team": "Miami Dolphins",
+    "home_score": 14,
+    "away_score": 30,
+    "points_total": 44,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "New Orleans Saints",
+    "away_team": "Washington Commanders",
+    "home_score": 16,
+    "away_score": 20,
+    "points_total": 36,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-21",
+    "home_team": "New York Jets",
+    "away_team": "New York Giants",
+    "home_score": 20,
+    "away_score": 28,
+    "points_total": 48,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-22",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Dallas Cowboys",
+    "home_score": 34,
+    "away_score": 29,
+    "points_total": 63,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-25",
+    "home_team": "New England Patriots",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 18,
+    "away_score": 25,
+    "points_total": 43,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Atlanta Falcons",
+    "home_score": 11,
+    "away_score": 21,
+    "points_total": 32,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Carolina Panthers",
+    "home_score": 20,
+    "away_score": 24,
+    "points_total": 44,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Cleveland Browns",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 26,
+    "away_score": 27,
+    "points_total": 53,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Seattle Seahawks",
+    "home_score": 32,
+    "away_score": 15,
+    "points_total": 47,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Chicago Bears",
+    "away_team": "Minnesota Vikings",
+    "home_score": 25,
+    "away_score": 31,
+    "points_total": 56,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Miami Dolphins",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 17,
+    "away_score": 18,
+    "points_total": 35,
+    "location": "Hard Rock Stadium, Miami Gardens, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Detroit Lions",
+    "away_team": "Baltimore Ravens",
+    "home_score": 13,
+    "away_score": 18,
+    "points_total": 31,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Los Angeles Rams",
+    "home_score": 12,
+    "away_score": 19,
+    "points_total": 31,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "New York Jets",
+    "away_team": "Washington Commanders",
+    "home_score": 24,
+    "away_score": 11,
+    "points_total": 35,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Denver Broncos",
+    "home_score": 19,
+    "away_score": 18,
+    "points_total": 37,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "New York Giants",
+    "home_score": 21,
+    "away_score": 24,
+    "points_total": 45,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-28",
+    "home_team": "Green Bay Packers",
+    "away_team": "Tennessee Titans",
+    "home_score": 37,
+    "away_score": 26,
+    "points_total": 63,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-09-29",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Tennessee Titans",
+    "home_score": 24,
+    "away_score": 29,
+    "points_total": 53,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-02",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Chicago Bears",
+    "home_score": 37,
+    "away_score": 35,
+    "points_total": 72,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "Houston Texans",
+    "away_team": "Denver Broncos",
+    "home_score": 23,
+    "away_score": 11,
+    "points_total": 34,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Baltimore Ravens",
+    "home_score": 35,
+    "away_score": 15,
+    "points_total": 50,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Seattle Seahawks",
+    "home_score": 32,
+    "away_score": 23,
+    "points_total": 55,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "Cleveland Browns",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 14,
+    "away_score": 11,
+    "points_total": 25,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "New York Giants",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 13,
+    "away_score": 20,
+    "points_total": 33,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "New England Patriots",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 20,
+    "away_score": 15,
+    "points_total": 35,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Carolina Panthers",
+    "home_score": 30,
+    "away_score": 32,
+    "points_total": 62,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "Tennessee Titans",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 27,
+    "away_score": 30,
+    "points_total": 57,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Arizona Cardinals",
+    "home_score": 27,
+    "away_score": 29,
+    "points_total": 56,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "Indianapolis Colts",
+    "away_team": "New Orleans Saints",
+    "home_score": 18,
+    "away_score": 27,
+    "points_total": 45,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "New York Jets",
+    "away_team": "Chicago Bears",
+    "home_score": 22,
+    "away_score": 29,
+    "points_total": 51,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Washington Commanders",
+    "home_score": 33,
+    "away_score": 28,
+    "points_total": 61,
+    "location": "EverBank Stadium, Jacksonville, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-05",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Detroit Lions",
+    "home_score": 20,
+    "away_score": 23,
+    "points_total": 43,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-06",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Indianapolis Colts",
+    "home_score": 31,
+    "away_score": 10,
+    "points_total": 41,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-09",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Buffalo Bills",
+    "home_score": 37,
+    "away_score": 21,
+    "points_total": 58,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Los Angeles Rams",
+    "home_score": 28,
+    "away_score": 25,
+    "points_total": 53,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Washington Commanders",
+    "away_team": "Houston Texans",
+    "home_score": 27,
+    "away_score": 14,
+    "points_total": 41,
+    "location": "Northwest Stadium, Landover, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Tennessee Titans",
+    "away_team": "New York Jets",
+    "home_score": 15,
+    "away_score": 18,
+    "points_total": 33,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Baltimore Ravens",
+    "home_score": 36,
+    "away_score": 22,
+    "points_total": 58,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Denver Broncos",
+    "home_score": 19,
+    "away_score": 14,
+    "points_total": 33,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Carolina Panthers",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 28,
+    "away_score": 14,
+    "points_total": 42,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Dallas Cowboys",
+    "home_score": 24,
+    "away_score": 12,
+    "points_total": 36,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Miami Dolphins",
+    "away_team": "New Orleans Saints",
+    "home_score": 33,
+    "away_score": 34,
+    "points_total": 67,
+    "location": "Hard Rock Stadium, Miami Gardens, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Detroit Lions",
+    "home_score": 26,
+    "away_score": 34,
+    "points_total": 60,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Minnesota Vikings",
+    "home_score": 30,
+    "away_score": 10,
+    "points_total": 40,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Cleveland Browns",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 17,
+    "away_score": 24,
+    "points_total": 41,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "New England Patriots",
+    "home_score": 28,
+    "away_score": 34,
+    "points_total": 62,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Chicago Bears",
+    "away_team": "New York Giants",
+    "home_score": 17,
+    "away_score": 21,
+    "points_total": 38,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-12",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Philadelphia Eagles",
+    "home_score": 25,
+    "away_score": 31,
+    "points_total": 56,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-13",
+    "home_team": "New York Jets",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 13,
+    "away_score": 29,
+    "points_total": 42,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-16",
+    "home_team": "Tennessee Titans",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 33,
+    "away_score": 24,
+    "points_total": 57,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Chicago Bears",
+    "away_team": "Baltimore Ravens",
+    "home_score": 27,
+    "away_score": 14,
+    "points_total": 41,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Houston Texans",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 30,
+    "away_score": 32,
+    "points_total": 62,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 27,
+    "away_score": 17,
+    "points_total": 44,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 13,
+    "away_score": 10,
+    "points_total": 23,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Indianapolis Colts",
+    "home_score": 11,
+    "away_score": 33,
+    "points_total": 44,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Las Vegas Raiders",
+    "away_team": "New York Jets",
+    "home_score": 31,
+    "away_score": 15,
+    "points_total": 46,
+    "location": "Allegiant Stadium, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Green Bay Packers",
+    "away_team": "New England Patriots",
+    "home_score": 23,
+    "away_score": 11,
+    "points_total": 34,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Washington Commanders",
+    "away_team": "Carolina Panthers",
+    "home_score": 10,
+    "away_score": 33,
+    "points_total": 43,
+    "location": "Northwest Stadium, Landover, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Los Angeles Rams",
+    "home_score": 35,
+    "away_score": 11,
+    "points_total": 46,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Miami Dolphins",
+    "home_score": 19,
+    "away_score": 26,
+    "points_total": 45,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Detroit Lions",
+    "home_score": 14,
+    "away_score": 10,
+    "points_total": 24,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "New Orleans Saints",
+    "away_team": "Buffalo Bills",
+    "home_score": 30,
+    "away_score": 15,
+    "points_total": 45,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-19",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "New York Giants",
+    "home_score": 27,
+    "away_score": 14,
+    "points_total": 41,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-20",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "San Francisco 49ers",
+    "home_score": 24,
+    "away_score": 21,
+    "points_total": 45,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-23",
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 12,
+    "away_score": 13,
+    "points_total": 25,
+    "location": "EverBank Stadium, Jacksonville, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Baltimore Ravens",
+    "away_team": "Minnesota Vikings",
+    "home_score": 26,
+    "away_score": 17,
+    "points_total": 43,
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Chicago Bears",
+    "away_team": "Los Angeles Rams",
+    "home_score": 31,
+    "away_score": 28,
+    "points_total": 59,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Detroit Lions",
+    "away_team": "Buffalo Bills",
+    "home_score": 21,
+    "away_score": 30,
+    "points_total": 51,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Cleveland Browns",
+    "away_team": "Carolina Panthers",
+    "home_score": 33,
+    "away_score": 10,
+    "points_total": 43,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Houston Texans",
+    "away_team": "New York Jets",
+    "home_score": 11,
+    "away_score": 21,
+    "points_total": 32,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Denver Broncos",
+    "away_team": "Washington Commanders",
+    "home_score": 27,
+    "away_score": 12,
+    "points_total": 39,
+    "location": "Empower Field at Mile High, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "New Orleans Saints",
+    "home_score": 16,
+    "away_score": 25,
+    "points_total": 41,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Philadelphia Eagles",
+    "home_score": 28,
+    "away_score": 20,
+    "points_total": 48,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Green Bay Packers",
+    "home_score": 31,
+    "away_score": 28,
+    "points_total": 59,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Indianapolis Colts",
+    "home_score": 23,
+    "away_score": 28,
+    "points_total": 51,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 22,
+    "away_score": 28,
+    "points_total": 50,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "New York Giants",
+    "home_score": 13,
+    "away_score": 16,
+    "points_total": 29,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Tennessee Titans",
+    "away_team": "Atlanta Falcons",
+    "home_score": 17,
+    "away_score": 33,
+    "points_total": 50,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-26",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Pittsburgh Steelers",
+    "home_score": 27,
+    "away_score": 18,
+    "points_total": 45,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-27",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Miami Dolphins",
+    "home_score": 34,
+    "away_score": 17,
+    "points_total": 51,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-27",
+    "home_team": "Atlanta Falcons",
+    "away_team": "San Francisco 49ers",
+    "home_score": 29,
+    "away_score": 19,
+    "points_total": 48,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-10-30",
+    "home_team": "Baltimore Ravens",
+    "away_team": "Atlanta Falcons",
+    "home_score": 36,
+    "away_score": 27,
+    "points_total": 63,
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Pittsburgh Steelers",
+    "home_score": 22,
+    "away_score": 31,
+    "points_total": 53,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Chicago Bears",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 32,
+    "away_score": 20,
+    "points_total": 52,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Buffalo Bills",
+    "home_score": 29,
+    "away_score": 24,
+    "points_total": 53,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Washington Commanders",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 13,
+    "away_score": 17,
+    "points_total": 30,
+    "location": "Northwest Stadium, Landover, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Cleveland Browns",
+    "home_score": 29,
+    "away_score": 18,
+    "points_total": 47,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Tennessee Titans",
+    "home_score": 15,
+    "away_score": 34,
+    "points_total": 49,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Denver Broncos",
+    "home_score": 14,
+    "away_score": 30,
+    "points_total": 44,
+    "location": "EverBank Stadium, Jacksonville, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "New Orleans Saints",
+    "away_team": "Detroit Lions",
+    "home_score": 33,
+    "away_score": 32,
+    "points_total": 65,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "New York Giants",
+    "away_team": "Miami Dolphins",
+    "home_score": 36,
+    "away_score": 20,
+    "points_total": 56,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Baltimore Ravens",
+    "away_team": "Arizona Cardinals",
+    "home_score": 14,
+    "away_score": 19,
+    "points_total": 33,
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Green Bay Packers",
+    "away_team": "New England Patriots",
+    "home_score": 28,
+    "away_score": 29,
+    "points_total": 57,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 13,
+    "away_score": 29,
+    "points_total": 42,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-02",
+    "home_team": "New York Jets",
+    "away_team": "Houston Texans",
+    "home_score": 20,
+    "away_score": 26,
+    "points_total": 46,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-03",
+    "home_team": "Green Bay Packers",
+    "away_team": "Dallas Cowboys",
+    "home_score": 10,
+    "away_score": 12,
+    "points_total": 22,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-06",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "New York Jets",
+    "home_score": 31,
+    "away_score": 27,
+    "points_total": 58,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Washington Commanders",
+    "home_score": 13,
+    "away_score": 26,
+    "points_total": 39,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Green Bay Packers",
+    "away_team": "New York Jets",
+    "home_score": 36,
+    "away_score": 14,
+    "points_total": 50,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Los Angeles Rams",
+    "away_team": "Carolina Panthers",
+    "home_score": 13,
+    "away_score": 31,
+    "points_total": 44,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Detroit Lions",
+    "away_team": "Houston Texans",
+    "home_score": 27,
+    "away_score": 24,
+    "points_total": 51,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Seattle Seahawks",
+    "home_score": 29,
+    "away_score": 21,
+    "points_total": 50,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "New Orleans Saints",
+    "away_team": "San Francisco 49ers",
+    "home_score": 27,
+    "away_score": 20,
+    "points_total": 47,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 34,
+    "away_score": 22,
+    "points_total": 56,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 26,
+    "away_score": 10,
+    "points_total": 36,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Miami Dolphins",
+    "home_score": 14,
+    "away_score": 21,
+    "points_total": 35,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Baltimore Ravens",
+    "away_team": "Dallas Cowboys",
+    "home_score": 19,
+    "away_score": 28,
+    "points_total": 47,
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "New York Giants",
+    "home_score": 27,
+    "away_score": 30,
+    "points_total": 57,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "New England Patriots",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 11,
+    "away_score": 10,
+    "points_total": 21,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-09",
+    "home_team": "Tennessee Titans",
+    "away_team": "Chicago Bears",
+    "home_score": 31,
+    "away_score": 19,
+    "points_total": 50,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-10",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Seattle Seahawks",
+    "home_score": 14,
+    "away_score": 33,
+    "points_total": 47,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-10",
+    "home_team": "New York Giants",
+    "away_team": "San Francisco 49ers",
+    "home_score": 11,
+    "away_score": 34,
+    "points_total": 45,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-13",
+    "home_team": "Cleveland Browns",
+    "away_team": "Carolina Panthers",
+    "home_score": 32,
+    "away_score": 13,
+    "points_total": 45,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Buffalo Bills",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 25,
+    "away_score": 29,
+    "points_total": 54,
+    "location": "Highmark Stadium, Orchard Park, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Detroit Lions",
+    "away_team": "Denver Broncos",
+    "home_score": 19,
+    "away_score": 14,
+    "points_total": 33,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "San Francisco 49ers",
+    "away_team": "New York Jets",
+    "home_score": 19,
+    "away_score": 22,
+    "points_total": 41,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 34,
+    "away_score": 32,
+    "points_total": 66,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Cleveland Browns",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 18,
+    "away_score": 28,
+    "points_total": 46,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 37,
+    "away_score": 16,
+    "points_total": 53,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Philadelphia Eagles",
+    "home_score": 31,
+    "away_score": 23,
+    "points_total": 54,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Tennessee Titans",
+    "away_team": "Chicago Bears",
+    "home_score": 16,
+    "away_score": 14,
+    "points_total": 30,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Baltimore Ravens",
+    "home_score": 14,
+    "away_score": 18,
+    "points_total": 32,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Minnesota Vikings",
+    "away_team": "New Orleans Saints",
+    "home_score": 22,
+    "away_score": 24,
+    "points_total": 46,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Washington Commanders",
+    "home_score": 15,
+    "away_score": 27,
+    "points_total": 42,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "New York Giants",
+    "away_team": "Green Bay Packers",
+    "home_score": 26,
+    "away_score": 22,
+    "points_total": 48,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Carolina Panthers",
+    "away_team": "Arizona Cardinals",
+    "home_score": 29,
+    "away_score": 12,
+    "points_total": 41,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-16",
+    "home_team": "Miami Dolphins",
+    "away_team": "Atlanta Falcons",
+    "home_score": 35,
+    "away_score": 17,
+    "points_total": 52,
+    "location": "Hard Rock Stadium, Miami Gardens, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-17",
+    "home_team": "Seattle Seahawks",
+    "away_team": "New England Patriots",
+    "home_score": 12,
+    "away_score": 15,
+    "points_total": 27,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-20",
+    "home_team": "New Orleans Saints",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 35,
+    "away_score": 11,
+    "points_total": 46,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Denver Broncos",
+    "away_team": "Buffalo Bills",
+    "home_score": 24,
+    "away_score": 22,
+    "points_total": 46,
+    "location": "Empower Field at Mile High, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 19,
+    "away_score": 23,
+    "points_total": 42,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Los Angeles Rams",
+    "home_score": 32,
+    "away_score": 19,
+    "points_total": 51,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Baltimore Ravens",
+    "away_team": "New York Giants",
+    "home_score": 31,
+    "away_score": 28,
+    "points_total": 59,
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "New York Jets",
+    "home_score": 27,
+    "away_score": 31,
+    "points_total": 58,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Dallas Cowboys",
+    "home_score": 34,
+    "away_score": 20,
+    "points_total": 54,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Detroit Lions",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 29,
+    "away_score": 11,
+    "points_total": 40,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Miami Dolphins",
+    "away_team": "Cleveland Browns",
+    "home_score": 26,
+    "away_score": 14,
+    "points_total": 40,
+    "location": "Hard Rock Stadium, Miami Gardens, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Atlanta Falcons",
+    "away_team": "New Orleans Saints",
+    "home_score": 31,
+    "away_score": 14,
+    "points_total": 45,
+    "location": "Mercedes-Benz Stadium, Atlanta, GA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 22,
+    "away_score": 13,
+    "points_total": 35,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Chicago Bears",
+    "away_team": "New England Patriots",
+    "home_score": 22,
+    "away_score": 19,
+    "points_total": 41,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-23",
+    "home_team": "Tennessee Titans",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 25,
+    "away_score": 28,
+    "points_total": 53,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-24",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Miami Dolphins",
+    "home_score": 19,
+    "away_score": 13,
+    "points_total": 32,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-24",
+    "home_team": "New Orleans Saints",
+    "away_team": "Cleveland Browns",
+    "home_score": 25,
+    "away_score": 31,
+    "points_total": 56,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-27",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 31,
+    "away_score": 21,
+    "points_total": 52,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Miami Dolphins",
+    "away_team": "Carolina Panthers",
+    "home_score": 19,
+    "away_score": 27,
+    "points_total": 46,
+    "location": "Hard Rock Stadium, Miami Gardens, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Detroit Lions",
+    "home_score": 18,
+    "away_score": 21,
+    "points_total": 39,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Cleveland Browns",
+    "home_score": 23,
+    "away_score": 35,
+    "points_total": 58,
+    "location": "Lumen Field, Seattle, WA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Baltimore Ravens",
+    "home_score": 32,
+    "away_score": 18,
+    "points_total": 50,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Houston Texans",
+    "away_team": "Denver Broncos",
+    "home_score": 18,
+    "away_score": 28,
+    "points_total": 46,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "San Francisco 49ers",
+    "home_score": 28,
+    "away_score": 15,
+    "points_total": 43,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "New Orleans Saints",
+    "away_team": "New York Giants",
+    "home_score": 12,
+    "away_score": 33,
+    "points_total": 45,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Chicago Bears",
+    "away_team": "Tennessee Titans",
+    "home_score": 28,
+    "away_score": 29,
+    "points_total": 57,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Los Angeles Rams",
+    "away_team": "Buffalo Bills",
+    "home_score": 35,
+    "away_score": 32,
+    "points_total": 67,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "New York Jets",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 31,
+    "away_score": 18,
+    "points_total": 49,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 35,
+    "away_score": 34,
+    "points_total": 69,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-11-30",
+    "home_team": "Green Bay Packers",
+    "away_team": "Atlanta Falcons",
+    "home_score": 16,
+    "away_score": 35,
+    "points_total": 51,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-01",
+    "home_team": "New Orleans Saints",
+    "away_team": "Arizona Cardinals",
+    "home_score": 28,
+    "away_score": 10,
+    "points_total": 38,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-04",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Houston Texans",
+    "home_score": 34,
+    "away_score": 26,
+    "points_total": 60,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "New York Jets",
+    "away_team": "Chicago Bears",
+    "home_score": 30,
+    "away_score": 23,
+    "points_total": 53,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "New England Patriots",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 28,
+    "away_score": 19,
+    "points_total": 47,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "Detroit Lions",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 34,
+    "away_score": 16,
+    "points_total": 50,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "Green Bay Packers",
+    "away_team": "Baltimore Ravens",
+    "home_score": 34,
+    "away_score": 23,
+    "points_total": 57,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "Washington Commanders",
+    "away_team": "Minnesota Vikings",
+    "home_score": 26,
+    "away_score": 14,
+    "points_total": 40,
+    "location": "Northwest Stadium, Landover, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "Los Angeles Rams",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 34,
+    "away_score": 17,
+    "points_total": 51,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "New York Giants",
+    "away_team": "Cleveland Browns",
+    "home_score": 27,
+    "away_score": 35,
+    "points_total": 62,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 35,
+    "away_score": 16,
+    "points_total": 51,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Seattle Seahawks",
+    "home_score": 25,
+    "away_score": 16,
+    "points_total": 41,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "Carolina Panthers",
+    "away_team": "Pittsburgh Steelers",
+    "home_score": 23,
+    "away_score": 16,
+    "points_total": 39,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "Denver Broncos",
+    "away_team": "Buffalo Bills",
+    "home_score": 36,
+    "away_score": 32,
+    "points_total": 68,
+    "location": "Empower Field at Mile High, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-07",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Arizona Cardinals",
+    "home_score": 25,
+    "away_score": 12,
+    "points_total": 37,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-08",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Atlanta Falcons",
+    "home_score": 19,
+    "away_score": 12,
+    "points_total": 31,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-08",
+    "home_team": "New England Patriots",
+    "away_team": "Los Angeles Rams",
+    "home_score": 33,
+    "away_score": 15,
+    "points_total": 48,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-11",
+    "home_team": "New England Patriots",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 14,
+    "away_score": 30,
+    "points_total": 44,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Buffalo Bills",
+    "away_team": "Seattle Seahawks",
+    "home_score": 21,
+    "away_score": 35,
+    "points_total": 56,
+    "location": "Highmark Stadium, Orchard Park, NY",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 28,
+    "away_score": 31,
+    "points_total": 59,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Baltimore Ravens",
+    "home_score": 22,
+    "away_score": 33,
+    "points_total": 55,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Carolina Panthers",
+    "away_team": "Pittsburgh Steelers",
+    "home_score": 23,
+    "away_score": 25,
+    "points_total": 48,
+    "location": "Bank of America Stadium, Charlotte, NC",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Green Bay Packers",
+    "away_team": "Cleveland Browns",
+    "home_score": 31,
+    "away_score": 16,
+    "points_total": 47,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 22,
+    "away_score": 17,
+    "points_total": 39,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Detroit Lions",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 18,
+    "away_score": 35,
+    "points_total": 53,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Tennessee Titans",
+    "home_score": 19,
+    "away_score": 29,
+    "points_total": 48,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Miami Dolphins",
+    "home_score": 16,
+    "away_score": 19,
+    "points_total": 35,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Arizona Cardinals",
+    "away_team": "New Orleans Saints",
+    "home_score": 31,
+    "away_score": 18,
+    "points_total": 49,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Minnesota Vikings",
+    "home_score": 18,
+    "away_score": 28,
+    "points_total": 46,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Denver Broncos",
+    "away_team": "Washington Commanders",
+    "home_score": 12,
+    "away_score": 20,
+    "points_total": 32,
+    "location": "Empower Field at Mile High, Denver, CO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-14",
+    "home_team": "Los Angeles Rams",
+    "away_team": "Chicago Bears",
+    "home_score": 22,
+    "away_score": 12,
+    "points_total": 34,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-15",
+    "home_team": "New York Giants",
+    "away_team": "Baltimore Ravens",
+    "home_score": 24,
+    "away_score": 25,
+    "points_total": 49,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-18",
+    "home_team": "New Orleans Saints",
+    "away_team": "Chicago Bears",
+    "home_score": 36,
+    "away_score": 34,
+    "points_total": 70,
+    "location": "Caesars Superdome, New Orleans, LA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Tennessee Titans",
+    "away_team": "Buffalo Bills",
+    "home_score": 29,
+    "away_score": 24,
+    "points_total": 53,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Green Bay Packers",
+    "away_team": "Los Angeles Rams",
+    "home_score": 24,
+    "away_score": 22,
+    "points_total": 46,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "New York Jets",
+    "away_team": "Detroit Lions",
+    "home_score": 30,
+    "away_score": 31,
+    "points_total": 61,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Washington Commanders",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 32,
+    "away_score": 35,
+    "points_total": 67,
+    "location": "Northwest Stadium, Landover, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Baltimore Ravens",
+    "home_score": 30,
+    "away_score": 20,
+    "points_total": 50,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Chicago Bears",
+    "away_team": "Miami Dolphins",
+    "home_score": 28,
+    "away_score": 24,
+    "points_total": 52,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Atlanta Falcons",
+    "home_score": 22,
+    "away_score": 25,
+    "points_total": 47,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "San Francisco 49ers",
+    "home_score": 24,
+    "away_score": 12,
+    "points_total": 36,
+    "location": "EverBank Stadium, Jacksonville, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Seattle Seahawks",
+    "home_score": 24,
+    "away_score": 25,
+    "points_total": 49,
+    "location": "Lucas Oil Stadium, Indianapolis, IN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Arizona Cardinals",
+    "away_team": "New York Giants",
+    "home_score": 23,
+    "away_score": 25,
+    "points_total": 48,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Las Vegas Raiders",
+    "away_team": "New Orleans Saints",
+    "home_score": 29,
+    "away_score": 16,
+    "points_total": 45,
+    "location": "Allegiant Stadium, Las Vegas, NV",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-21",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Carolina Panthers",
+    "home_score": 12,
+    "away_score": 31,
+    "points_total": 43,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-22",
+    "home_team": "Los Angeles Rams",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 35,
+    "away_score": 27,
+    "points_total": 62,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-25",
+    "home_team": "Los Angeles Rams",
+    "away_team": "New England Patriots",
+    "home_score": 31,
+    "away_score": 17,
+    "points_total": 48,
+    "location": "SoFi Stadium, Inglewood, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Jacksonville Jaguars",
+    "home_score": 31,
+    "away_score": 34,
+    "points_total": 65,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_score": 29,
+    "away_score": 17,
+    "points_total": 46,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Tennessee Titans",
+    "away_team": "Cleveland Browns",
+    "home_score": 18,
+    "away_score": 35,
+    "points_total": 53,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "New York Jets",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 26,
+    "away_score": 12,
+    "points_total": 38,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Denver Broncos",
+    "home_score": 26,
+    "away_score": 30,
+    "points_total": 56,
+    "location": "AT&T Stadium, Arlington, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Washington Commanders",
+    "away_team": "Cincinnati Bengals",
+    "home_score": 24,
+    "away_score": 32,
+    "points_total": 56,
+    "location": "Northwest Stadium, Landover, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Green Bay Packers",
+    "away_team": "Buffalo Bills",
+    "home_score": 33,
+    "away_score": 22,
+    "points_total": 55,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Baltimore Ravens",
+    "away_team": "Atlanta Falcons",
+    "home_score": 14,
+    "away_score": 13,
+    "points_total": 27,
+    "location": "M&T Bank Stadium, Baltimore, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Carolina Panthers",
+    "home_score": 36,
+    "away_score": 26,
+    "points_total": 62,
+    "location": "Lincoln Financial Field, Philadelphia, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "San Francisco 49ers",
+    "away_team": "Indianapolis Colts",
+    "home_score": 26,
+    "away_score": 20,
+    "points_total": 46,
+    "location": "Levi's Stadium, Santa Clara, CA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Chicago Bears",
+    "away_team": "Los Angeles Chargers",
+    "home_score": 32,
+    "away_score": 27,
+    "points_total": 59,
+    "location": "Soldier Field, Chicago, IL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "New York Giants",
+    "away_team": "New Orleans Saints",
+    "home_score": 14,
+    "away_score": 34,
+    "points_total": 48,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "New England Patriots",
+    "away_team": "Arizona Cardinals",
+    "home_score": 19,
+    "away_score": 35,
+    "points_total": 54,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-28",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Seattle Seahawks",
+    "home_score": 31,
+    "away_score": 35,
+    "points_total": 66,
+    "location": "Arrowhead Stadium, Kansas City, MO",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-29",
+    "home_team": "Washington Commanders",
+    "away_team": "Indianapolis Colts",
+    "home_score": 12,
+    "away_score": 23,
+    "points_total": 35,
+    "location": "Northwest Stadium, Landover, MD",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2025-12-29",
+    "home_team": "Detroit Lions",
+    "away_team": "Chicago Bears",
+    "home_score": 33,
+    "away_score": 24,
+    "points_total": 57,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-01",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "New York Jets",
+    "home_score": 24,
+    "away_score": 27,
+    "points_total": 51,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Houston Texans",
+    "away_team": "New York Jets",
+    "home_score": 31,
+    "away_score": 12,
+    "points_total": 43,
+    "location": "NRG Stadium, Houston, TX",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Baltimore Ravens",
+    "home_score": 25,
+    "away_score": 10,
+    "points_total": 35,
+    "location": "State Farm Stadium, Glendale, AZ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "New England Patriots",
+    "away_team": "New Orleans Saints",
+    "home_score": 26,
+    "away_score": 13,
+    "points_total": 39,
+    "location": "Gillette Stadium, Foxborough, MA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Cleveland Browns",
+    "away_team": "Seattle Seahawks",
+    "home_score": 22,
+    "away_score": 13,
+    "points_total": 35,
+    "location": "Cleveland Browns Stadium, Cleveland, OH",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Indianapolis Colts",
+    "home_score": 21,
+    "away_score": 15,
+    "points_total": 36,
+    "location": "Acrisure Stadium, Pittsburgh, PA",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "New York Giants",
+    "away_team": "Washington Commanders",
+    "home_score": 22,
+    "away_score": 25,
+    "points_total": 47,
+    "location": "MetLife Stadium, East Rutherford, NJ",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Green Bay Packers",
+    "away_team": "Philadelphia Eagles",
+    "home_score": 33,
+    "away_score": 22,
+    "points_total": 55,
+    "location": "Lambeau Field, Green Bay, WI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Detroit Lions",
+    "away_team": "Carolina Panthers",
+    "home_score": 33,
+    "away_score": 32,
+    "points_total": 65,
+    "location": "Ford Field, Detroit, MI",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Tennessee Titans",
+    "away_team": "Las Vegas Raiders",
+    "home_score": 32,
+    "away_score": 34,
+    "points_total": 66,
+    "location": "Nissan Stadium, Nashville, TN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Kansas City Chiefs",
+    "home_score": 33,
+    "away_score": 13,
+    "points_total": 46,
+    "location": "EverBank Stadium, Jacksonville, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Los Angeles Rams",
+    "home_score": 23,
+    "away_score": 20,
+    "points_total": 43,
+    "location": "U.S. Bank Stadium, Minneapolis, MN",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Miami Dolphins",
+    "home_score": 17,
+    "away_score": 26,
+    "points_total": 43,
+    "location": "Raymond James Stadium, Tampa, FL",
+    "game_status": "Final"
+  },
+  {
+    "game_date": "2026-01-04",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Dallas Cowboys",
+    "home_score": 14,
+    "away_score": 32,
+    "points_total": 46,
+    "location": "Paycor Stadium, Cincinnati, OH",
+    "game_status": "Final"
+  }
+]
