@@ -1,0 +1,45 @@
+# Sports Betting Evaluation Pipeline - Cron Schedule Template
+#
+# Copy the appropriate line to your crontab:
+#   crontab -e
+#
+# Format: minute hour day month weekday command
+# Example: 0 6 * * * /path/to/command  (runs daily at 6:00 AM)
+
+# ============================================================================
+# IMPORTANT: Update /path/to/eval_test with your actual path!
+# ============================================================================
+
+# Daily at 6:00 AM - Update all sports
+0 6 * * * cd /path/to/eval_test/nba_eval/nba_game_collector_bedrock && ./run_daily_update.sh --sport all >> logs/cron.log 2>&1
+
+# Daily at 3:30 AM - Update all sports (earlier time)
+#30 3 * * * cd /path/to/eval_test/nba_eval/nba_game_collector_bedrock && ./run_daily_update.sh --sport all >> logs/cron.log 2>&1
+
+# Twice daily (6 AM and 6 PM) - Catch evening games
+#0 6,18 * * * cd /path/to/eval_test/nba_eval/nba_game_collector_bedrock && ./run_daily_update.sh --sport all >> logs/cron.log 2>&1
+
+# Weekdays only at 7 AM - Update NBA only
+#0 7 * * 1-5 cd /path/to/eval_test/nba_eval/nba_game_collector_bedrock && ./run_daily_update.sh --sport nba >> logs/cron.log 2>&1
+
+# With email notifications
+#0 6 * * * cd /path/to/eval_test/nba_eval/nba_game_collector_bedrock && ./run_daily_update.sh --sport all --notify >> logs/cron.log 2>&1
+
+# ============================================================================
+# Cron Time Reference:
+# ============================================================================
+# minute  (0-59)
+# |  hour (0-23)
+# |  |  day of month (1-31)
+# |  |  |  month (1-12)
+# |  |  |  |  day of week (0-7, 0 and 7 = Sunday)
+# |  |  |  |  |
+# *  *  *  *  *  command
+
+# Examples:
+# 0 6 * * *         - Every day at 6:00 AM
+# 30 3 * * *        - Every day at 3:30 AM
+# 0 */6 * * *       - Every 6 hours
+# 0 6 * * 1-5       - Weekdays at 6:00 AM
+# 0 6,18 * * *      - 6:00 AM and 6:00 PM daily
+# 0 0 * * 0         - Every Sunday at midnight

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Job Label (must be unique) -->
+    <key>Label</key>
+    <string>com.tenkiai.sports-eval</string>
+
+    <!-- Program to run -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/jamesyonamine/Documents/GitHub/eval_test/nba_eval/nba_game_collector_bedrock/run_daily_update.sh</string>
+        <string>--sport</string>
+        <string>all</string>
+    </array>
+
+    <!-- Working Directory -->
+    <key>WorkingDirectory</key>
+    <string>/Users/jamesyonamine/Documents/GitHub/eval_test/nba_eval/nba_game_collector_bedrock</string>
+
+    <!-- Schedule: Run daily at 6:00 AM -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>6</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- Environment Variables -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin</string>
+        <key>GCP_PROJECT_ID</key>
+        <string>tenki-476718</string>
+        <key>AWS_REGION</key>
+        <string>us-east-2</string>
+    </dict>
+
+    <!-- Logging -->
+    <key>StandardOutPath</key>
+    <string>/Users/jamesyonamine/Documents/GitHub/eval_test/nba_eval/nba_game_collector_bedrock/logs/launchd.stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/jamesyonamine/Documents/GitHub/eval_test/nba_eval/nba_game_collector_bedrock/logs/launchd.stderr.log</string>
+
+    <!-- Run at load (for testing) -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- Keep job alive if it crashes -->
+    <key>KeepAlive</key>
+    <false/>
+
+    <!-- Nice level (lower priority) -->
+    <key>Nice</key>
+    <integer>10</integer>
+</dict>
+</plist>
