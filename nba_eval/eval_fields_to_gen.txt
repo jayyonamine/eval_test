@@ -1,0 +1,15 @@
+fields in the tenki-476718.forecasts_mike.relational_forecasts table
+
+actual_team_away_points: an int variable that can be NULL. Is set to the actual number of points that the away team scores and will be populated from actual results form an evals pipeline. 
+
+actual_team_home_points: an int variable that can be NULL. Is set to the actual number of points that the home team scores and will be populated from actual results form an evals pipeline.
+
+actual_team_home_win: a binary 1/0 variable that can be NULL. Is set to 1 if the home team wins, and 0 if the home team loses and will be populated from actual results an evals pipeline.
+
+actual_points_total: an int variable that can be NULL and equals the sum of the actual_team_away_points and actual_team_home_points and will be set from an evals pipeline.. 
+
+actual_points_total_over: a binary variable that can NULL. if actual_points_total is not NULL and points_total_over is not NULL, the actual_points_total_over: 1 if actual_points_total > points_total_over and 0 if actual_points_total < points_total_over and will be set from an evals pipeline.
+
+tenki_bet_correct: a binary 1/0 variable that can be NULL and will be set from an evals pipeline. 
+
+kalshi_bet_correct: a binary 1/0 variable that can be NULL and will be set from an evals pipeline. 
