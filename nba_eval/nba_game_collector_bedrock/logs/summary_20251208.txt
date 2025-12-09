@@ -1,0 +1,23 @@
+Daily Sports Data Update Summary
+Date: 2025-12-08 18:22:35
+Target Date: 2025-12-08
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NBA:
+  • New games inserted: 0
+  • Duplicates skipped: 0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Evaluation Features:
+  • Forecast rows updated: 0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Overall:
+  • Total new games: 0
+  • Total duplicates: 0
+  • Forecasts evaluated: 0
+
+
